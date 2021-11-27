@@ -1,259 +1,1094 @@
-Num Players, Total Reach, Recommended, Marquise de Cat, Underground Duchy, Eyrie Dynasties, Vagabond (first), Riverfolk Company, Woodland Alliance, Corvid Conspiracy, Vagabond (second), Lizard Cult
-2, 18, Yes, YES, YES, -, -, -, -, -, -, -
-2, 17, Yes, YES, -, YES, -, -, -, -, -, -
-3, 25, Yes, YES, YES, YES, -, -, -, -, -, -
-3, 23, Yes, YES, YES, -, YES, -, -, -, -, -
-3, 23, Yes, YES, YES, -, -, YES, -, -, -, -
-3, 21, Yes, YES, YES, -, -, -, YES, -, -, -
-3, 21, Yes, YES, YES, -, -, -, -, YES, -, -
-3, 20, Yes, YES, YES, -, -, -, -, -, -, YES
-3, 22, Yes, YES, -, YES, YES, -, -, -, -, -
-3, 22, Yes, YES, -, YES, -, YES, -, -, -, -
-3, 20, Yes, YES, -, YES, -, -, YES, -, -, -
-3, 20, Yes, YES, -, YES, -, -, -, YES, -, -
-3, 19, Yes, YES, -, YES, -, -, -, -, -, YES
-3, 20, Yes, YES, -, -, YES, YES, -, -, -, -
-3, 18, Yes, YES, -, -, YES, -, YES, -, -, -
-3, 18, Yes, YES, -, -, YES, -, -, YES, -, -
-3, 17, No, YES, -, -, YES, -, -, -, YES, -
-3, 17, No, YES, -, -, YES, -, -, -, -, YES
-3, 18, Yes, YES, -, -, -, YES, YES, -, -, -
-3, 18, Yes, YES, -, -, -, YES, -, YES, -, -
-3, 17, No, YES, -, -, -, YES, -, -, -, YES
-3, 20, Yes, -, YES, YES, YES, -, -, -, -, -
-3, 20, Yes, -, YES, YES, -, YES, -, -, -, -
-3, 18, Yes, -, YES, YES, -, -, YES, -, -, -
-3, 18, Yes, -, YES, YES, -, -, -, YES, -, -
-3, 17, No, -, YES, YES, -, -, -, -, -, YES
-3, 18, Yes, -, YES, -, YES, YES, -, -, -, -
-3, 17, No, -, -, YES, YES, YES, -, -, -, -
-4, 30, Yes, YES, YES, YES, YES, -, -, -, -, -
-4, 30, Yes, YES, YES, YES, -, YES, -, -, -, -
-4, 28, Yes, YES, YES, YES, -, -, YES, -, -, -
-4, 28, Yes, YES, YES, YES, -, -, -, YES, -, -
-4, 27, Yes, YES, YES, YES, -, -, -, -, -, YES
-4, 28, Yes, YES, YES, -, YES, YES, -, -, -, -
-4, 26, Yes, YES, YES, -, YES, -, YES, -, -, -
-4, 26, Yes, YES, YES, -, YES, -, -, YES, -, -
-4, 25, Yes, YES, YES, -, YES, -, -, -, YES, -
-4, 25, Yes, YES, YES, -, YES, -, -, -, -, YES
-4, 26, Yes, YES, YES, -, -, YES, YES, -, -, -
-4, 26, Yes, YES, YES, -, -, YES, -, YES, -, -
-4, 25, Yes, YES, YES, -, -, YES, -, -, -, YES
-4, 24, Yes, YES, YES, -, -, -, YES, YES, -, -
-4, 23, Yes, YES, YES, -, -, -, YES, -, -, YES
-4, 23, Yes, YES, YES, -, -, -, -, YES, -, YES
-4, 27, Yes, YES, -, YES, YES, YES, -, -, -, -
-4, 25, Yes, YES, -, YES, YES, -, YES, -, -, -
-4, 25, Yes, YES, -, YES, YES, -, -, YES, -, -
-4, 24, Yes, YES, -, YES, YES, -, -, -, YES, -
-4, 24, Yes, YES, -, YES, YES, -, -, -, -, YES
-4, 25, Yes, YES, -, YES, -, YES, YES, -, -, -
-4, 25, Yes, YES, -, YES, -, YES, -, YES, -, -
-4, 24, Yes, YES, -, YES, -, YES, -, -, -, YES
-4, 23, Yes, YES, -, YES, -, -, YES, YES, -, -
-4, 22, Yes, YES, -, YES, -, -, YES, -, -, YES
-4, 22, Yes, YES, -, YES, -, -, -, YES, -, YES
-4, 23, Yes, YES, -, -, YES, YES, YES, -, -, -
-4, 23, Yes, YES, -, -, YES, YES, -, YES, -, -
-4, 22, Yes, YES, -, -, YES, YES, -, -, YES, -
-4, 22, Yes, YES, -, -, YES, YES, -, -, -, YES
-4, 21, Yes, YES, -, -, YES, -, YES, YES, -, -
-4, 20, No, YES, -, -, YES, -, YES, -, YES, -
-4, 20, No, YES, -, -, YES, -, YES, -, -, YES
-4, 20, No, YES, -, -, YES, -, -, YES, YES, -
-4, 20, No, YES, -, -, YES, -, -, YES, -, YES
-4, 19, No, YES, -, -, YES, -, -, -, YES, YES
-4, 21, Yes, YES, -, -, -, YES, YES, YES, -, -
-4, 20, No, YES, -, -, -, YES, YES, -, -, YES
-4, 20, No, YES, -, -, -, YES, -, YES, -, YES
-4, 18, No, YES, -, -, -, -, YES, YES, -, YES
-4, 25, Yes, -, YES, YES, YES, YES, -, -, -, -
-4, 23, Yes, -, YES, YES, YES, -, YES, -, -, -
-4, 23, Yes, -, YES, YES, YES, -, -, YES, -, -
-4, 22, Yes, -, YES, YES, YES, -, -, -, YES, -
-4, 22, Yes, -, YES, YES, YES, -, -, -, -, YES
-4, 23, Yes, -, YES, YES, -, YES, YES, -, -, -
-4, 23, Yes, -, YES, YES, -, YES, -, YES, -, -
-4, 22, Yes, -, YES, YES, -, YES, -, -, -, YES
-4, 21, Yes, -, YES, YES, -, -, YES, YES, -, -
-4, 20, No, -, YES, YES, -, -, YES, -, -, YES
-4, 20, No, -, YES, YES, -, -, -, YES, -, YES
-4, 21, Yes, -, YES, -, YES, YES, YES, -, -, -
-4, 21, Yes, -, YES, -, YES, YES, -, YES, -, -
-4, 20, No, -, YES, -, YES, YES, -, -, YES, -
-4, 20, No, -, YES, -, YES, YES, -, -, -, YES
-4, 19, No, -, YES, -, YES, -, YES, YES, -, -
-4, 18, No, -, YES, -, YES, -, YES, -, YES, -
-4, 18, No, -, YES, -, YES, -, YES, -, -, YES
-4, 18, No, -, YES, -, YES, -, -, YES, YES, -
-4, 18, No, -, YES, -, YES, -, -, YES, -, YES
-4, 17, No, -, YES, -, YES, -, -, -, YES, YES
-4, 19, No, -, YES, -, -, YES, YES, YES, -, -
-4, 18, No, -, YES, -, -, YES, YES, -, -, YES
-4, 18, No, -, YES, -, -, YES, -, YES, -, YES
-4, 20, No, -, -, YES, YES, YES, YES, -, -, -
-4, 20, No, -, -, YES, YES, YES, -, YES, -, -
-4, 19, No, -, -, YES, YES, YES, -, -, YES, -
-4, 19, No, -, -, YES, YES, YES, -, -, -, YES
-4, 18, No, -, -, YES, YES, -, YES, YES, -, -
-4, 17, No, -, -, YES, YES, -, YES, -, YES, -
-4, 17, No, -, -, YES, YES, -, YES, -, -, YES
-4, 17, No, -, -, YES, YES, -, -, YES, YES, -
-4, 17, No, -, -, YES, YES, -, -, YES, -, YES
-4, 18, No, -, -, YES, -, YES, YES, YES, -, -
-4, 17, No, -, -, YES, -, YES, YES, -, -, YES
-4, 17, No, -, -, YES, -, YES, -, YES, -, YES
-5, 35, Yes, YES, YES, YES, YES, YES, -, -, -, -
-5, 33, Yes, YES, YES, YES, YES, -, YES, -, -, -
-5, 33, Yes, YES, YES, YES, YES, -, -, YES, -, -
-5, 32, Yes, YES, YES, YES, YES, -, -, -, YES, -
-5, 32, Yes, YES, YES, YES, YES, -, -, -, -, YES
-5, 33, Yes, YES, YES, YES, -, YES, YES, -, -, -
-5, 33, Yes, YES, YES, YES, -, YES, -, YES, -, -
-5, 32, Yes, YES, YES, YES, -, YES, -, -, -, YES
-5, 31, Yes, YES, YES, YES, -, -, YES, YES, -, -
-5, 30, Yes, YES, YES, YES, -, -, YES, -, -, YES
-5, 30, Yes, YES, YES, YES, -, -, -, YES, -, YES
-5, 31, Yes, YES, YES, -, YES, YES, YES, -, -, -
-5, 31, Yes, YES, YES, -, YES, YES, -, YES, -, -
-5, 30, Yes, YES, YES, -, YES, YES, -, -, YES, -
-5, 30, Yes, YES, YES, -, YES, YES, -, -, -, YES
-5, 29, Yes, YES, YES, -, YES, -, YES, YES, -, -
-5, 28, Yes, YES, YES, -, YES, -, YES, -, YES, -
-5, 28, Yes, YES, YES, -, YES, -, YES, -, -, YES
-5, 28, Yes, YES, YES, -, YES, -, -, YES, YES, -
-5, 28, Yes, YES, YES, -, YES, -, -, YES, -, YES
-5, 27, Yes, YES, YES, -, YES, -, -, -, YES, YES
-5, 29, Yes, YES, YES, -, -, YES, YES, YES, -, -
-5, 28, Yes, YES, YES, -, -, YES, YES, -, -, YES
-5, 28, Yes, YES, YES, -, -, YES, -, YES, -, YES
-5, 26, Yes, YES, YES, -, -, -, YES, YES, -, YES
-5, 30, Yes, YES, -, YES, YES, YES, YES, -, -, -
-5, 30, Yes, YES, -, YES, YES, YES, -, YES, -, -
-5, 29, Yes, YES, -, YES, YES, YES, -, -, YES, -
-5, 29, Yes, YES, -, YES, YES, YES, -, -, -, YES
-5, 28, Yes, YES, -, YES, YES, -, YES, YES, -, -
-5, 27, Yes, YES, -, YES, YES, -, YES, -, YES, -
-5, 27, Yes, YES, -, YES, YES, -, YES, -, -, YES
-5, 27, Yes, YES, -, YES, YES, -, -, YES, YES, -
-5, 27, Yes, YES, -, YES, YES, -, -, YES, -, YES
-5, 26, Yes, YES, -, YES, YES, -, -, -, YES, YES
-5, 28, Yes, YES, -, YES, -, YES, YES, YES, -, -
-5, 27, Yes, YES, -, YES, -, YES, YES, -, -, YES
-5, 27, Yes, YES, -, YES, -, YES, -, YES, -, YES
-5, 25, Yes, YES, -, YES, -, -, YES, YES, -, YES
-5, 26, Yes, YES, -, -, YES, YES, YES, YES, -, -
-5, 25, Yes, YES, -, -, YES, YES, YES, -, YES, -
-5, 25, Yes, YES, -, -, YES, YES, YES, -, -, YES
-5, 25, Yes, YES, -, -, YES, YES, -, YES, YES, -
-5, 25, Yes, YES, -, -, YES, YES, -, YES, -, YES
-5, 24, No, YES, -, -, YES, YES, -, -, YES, YES
-5, 23, No, YES, -, -, YES, -, YES, YES, YES, -
-5, 23, No, YES, -, -, YES, -, YES, YES, -, YES
-5, 22, No, YES, -, -, YES, -, YES, -, YES, YES
-5, 22, No, YES, -, -, YES, -, -, YES, YES, YES
-5, 23, No, YES, -, -, -, YES, YES, YES, -, YES
-5, 28, Yes, -, YES, YES, YES, YES, YES, -, -, -
-5, 28, Yes, -, YES, YES, YES, YES, -, YES, -, -
-5, 27, Yes, -, YES, YES, YES, YES, -, -, YES, -
-5, 27, Yes, -, YES, YES, YES, YES, -, -, -, YES
-5, 26, Yes, -, YES, YES, YES, -, YES, YES, -, -
-5, 25, Yes, -, YES, YES, YES, -, YES, -, YES, -
-5, 25, Yes, -, YES, YES, YES, -, YES, -, -, YES
-5, 25, Yes, -, YES, YES, YES, -, -, YES, YES, -
-5, 25, Yes, -, YES, YES, YES, -, -, YES, -, YES
-5, 24, No, -, YES, YES, YES, -, -, -, YES, YES
-5, 26, Yes, -, YES, YES, -, YES, YES, YES, -, -
-5, 25, Yes, -, YES, YES, -, YES, YES, -, -, YES
-5, 25, Yes, -, YES, YES, -, YES, -, YES, -, YES
-5, 23, No, -, YES, YES, -, -, YES, YES, -, YES
-5, 24, No, -, YES, -, YES, YES, YES, YES, -, -
-5, 23, No, -, YES, -, YES, YES, YES, -, YES, -
-5, 23, No, -, YES, -, YES, YES, YES, -, -, YES
-5, 23, No, -, YES, -, YES, YES, -, YES, YES, -
-5, 23, No, -, YES, -, YES, YES, -, YES, -, YES
-5, 22, No, -, YES, -, YES, YES, -, -, YES, YES
-5, 21, No, -, YES, -, YES, -, YES, YES, YES, -
-5, 21, No, -, YES, -, YES, -, YES, YES, -, YES
-5, 20, No, -, YES, -, YES, -, YES, -, YES, YES
-5, 20, No, -, YES, -, YES, -, -, YES, YES, YES
-5, 21, No, -, YES, -, -, YES, YES, YES, -, YES
-5, 23, No, -, -, YES, YES, YES, YES, YES, -, -
-5, 22, No, -, -, YES, YES, YES, YES, -, YES, -
-5, 22, No, -, -, YES, YES, YES, YES, -, -, YES
-5, 22, No, -, -, YES, YES, YES, -, YES, YES, -
-5, 22, No, -, -, YES, YES, YES, -, YES, -, YES
-5, 21, No, -, -, YES, YES, YES, -, -, YES, YES
-5, 20, No, -, -, YES, YES, -, YES, YES, YES, -
-5, 20, No, -, -, YES, YES, -, YES, YES, -, YES
-5, 19, No, -, -, YES, YES, -, YES, -, YES, YES
-5, 19, No, -, -, YES, YES, -, -, YES, YES, YES
-5, 20, No, -, -, YES, -, YES, YES, YES, -, YES
-5, 18, No, -, -, -, YES, YES, YES, YES, YES, -
-5, 18, No, -, -, -, YES, YES, YES, YES, -, YES
-5, 17, No, -, -, -, YES, YES, YES, -, YES, YES
-5, 17, No, -, -, -, YES, YES, -, YES, YES, YES
-6, 38, Yes, YES, YES, YES, YES, YES, YES, -, -, -
-6, 38, Yes, YES, YES, YES, YES, YES, -, YES, -, -
-6, 37, Yes, YES, YES, YES, YES, YES, -, -, YES, -
-6, 37, Yes, YES, YES, YES, YES, YES, -, -, -, YES
-6, 36, Yes, YES, YES, YES, YES, -, YES, YES, -, -
-6, 35, Yes, YES, YES, YES, YES, -, YES, -, YES, -
-6, 35, Yes, YES, YES, YES, YES, -, YES, -, -, YES
-6, 35, Yes, YES, YES, YES, YES, -, -, YES, YES, -
-6, 35, Yes, YES, YES, YES, YES, -, -, YES, -, YES
-6, 34, Yes, YES, YES, YES, YES, -, -, -, YES, YES
-6, 36, Yes, YES, YES, YES, -, YES, YES, YES, -, -
-6, 35, Yes, YES, YES, YES, -, YES, YES, -, -, YES
-6, 35, Yes, YES, YES, YES, -, YES, -, YES, -, YES
-6, 33, Yes, YES, YES, YES, -, -, YES, YES, -, YES
-6, 34, Yes, YES, YES, -, YES, YES, YES, YES, -, -
-6, 33, Yes, YES, YES, -, YES, YES, YES, -, YES, -
-6, 33, Yes, YES, YES, -, YES, YES, YES, -, -, YES
-6, 33, Yes, YES, YES, -, YES, YES, -, YES, YES, -
-6, 33, Yes, YES, YES, -, YES, YES, -, YES, -, YES
-6, 32, Yes, YES, YES, -, YES, YES, -, -, YES, YES
-6, 31, Yes, YES, YES, -, YES, -, YES, YES, YES, -
-6, 31, Yes, YES, YES, -, YES, -, YES, YES, -, YES
-6, 30, Yes, YES, YES, -, YES, -, YES, -, YES, YES
-6, 30, Yes, YES, YES, -, YES, -, -, YES, YES, YES
-6, 31, Yes, YES, YES, -, -, YES, YES, YES, -, YES
-6, 33, Yes, YES, -, YES, YES, YES, YES, YES, -, -
-6, 32, Yes, YES, -, YES, YES, YES, YES, -, YES, -
-6, 32, Yes, YES, -, YES, YES, YES, YES, -, -, YES
-6, 32, Yes, YES, -, YES, YES, YES, -, YES, YES, -
-6, 32, Yes, YES, -, YES, YES, YES, -, YES, -, YES
-6, 31, Yes, YES, -, YES, YES, YES, -, -, YES, YES
-6, 30, Yes, YES, -, YES, YES, -, YES, YES, YES, -
-6, 30, Yes, YES, -, YES, YES, -, YES, YES, -, YES
-6, 29, Yes, YES, -, YES, YES, -, YES, -, YES, YES
-6, 29, Yes, YES, -, YES, YES, -, -, YES, YES, YES
-6, 30, Yes, YES, -, YES, -, YES, YES, YES, -, YES
-6, 28, Yes, YES, -, -, YES, YES, YES, YES, YES, -
-6, 28, Yes, YES, -, -, YES, YES, YES, YES, -, YES
-6, 27, No, YES, -, -, YES, YES, YES, -, YES, YES
-6, 27, No, YES, -, -, YES, YES, -, YES, YES, YES
-6, 25, No, YES, -, -, YES, -, YES, YES, YES, YES
-6, 31, Yes, -, YES, YES, YES, YES, YES, YES, -, -
-6, 30, Yes, -, YES, YES, YES, YES, YES, -, YES, -
-6, 30, Yes, -, YES, YES, YES, YES, YES, -, -, YES
-6, 30, Yes, -, YES, YES, YES, YES, -, YES, YES, -
-6, 30, Yes, -, YES, YES, YES, YES, -, YES, -, YES
-6, 29, Yes, -, YES, YES, YES, YES, -, -, YES, YES
-6, 28, Yes, -, YES, YES, YES, -, YES, YES, YES, -
-6, 28, Yes, -, YES, YES, YES, -, YES, YES, -, YES
-6, 27, No, -, YES, YES, YES, -, YES, -, YES, YES
-6, 27, No, -, YES, YES, YES, -, -, YES, YES, YES
-6, 28, Yes, -, YES, YES, -, YES, YES, YES, -, YES
-6, 26, No, -, YES, -, YES, YES, YES, YES, YES, -
-6, 26, No, -, YES, -, YES, YES, YES, YES, -, YES
-6, 25, No, -, YES, -, YES, YES, YES, -, YES, YES
-6, 25, No, -, YES, -, YES, YES, -, YES, YES, YES
-6, 23, No, -, YES, -, YES, -, YES, YES, YES, YES
-6, 25, No, -, -, YES, YES, YES, YES, YES, YES, -
-6, 25, No, -, -, YES, YES, YES, YES, YES, -, YES
-6, 24, No, -, -, YES, YES, YES, YES, -, YES, YES
-6, 24, No, -, -, YES, YES, YES, -, YES, YES, YES
-6, 22, No, -, -, YES, YES, -, YES, YES, YES, YES
-6, 20, No, -, -, -, YES, YES, YES, YES, YES, YES
+Num Players, Total Reach, Recommended Reach, Valid ADSET, Marquise de Cat, Lord of the Hundreds, Keepers in Iron, Underground Duchy, Eyrie Dynasties, Vagabond (first), Riverfolk Company, Woodland Alliance, Corvid Conspiracy, Vagabond (second), Lizard Cult
+2, 19, Yes, Yes, YES, YES, -, -, -, -, -, -, -, -, -
+2, 18, Yes, Yes, YES, -, YES, -, -, -, -, -, -, -, -
+2, 18, Yes, Yes, YES, -, -, YES, -, -, -, -, -, -, -
+2, 17, Yes, Yes, YES, -, -, -, YES, -, -, -, -, -, -
+2, 15, No, No, YES, -, -, -, -, YES, -, -, -, -, -
+2, 15, No, No, YES, -, -, -, -, -, YES, -, -, -, -
+2, 13, No, No, YES, -, -, -, -, -, -, YES, -, -, -
+2, 13, No, No, YES, -, -, -, -, -, -, -, YES, -, -
+2, 12, No, No, YES, -, -, -, -, -, -, -, -, -, YES
+2, 17, Yes, Yes, -, YES, YES, -, -, -, -, -, -, -, -
+2, 17, Yes, Yes, -, YES, -, YES, -, -, -, -, -, -, -
+2, 16, No, Yes, -, YES, -, -, YES, -, -, -, -, -, -
+2, 14, No, No, -, YES, -, -, -, YES, -, -, -, -, -
+2, 14, No, No, -, YES, -, -, -, -, YES, -, -, -, -
+2, 12, No, No, -, YES, -, -, -, -, -, YES, -, -, -
+2, 12, No, No, -, YES, -, -, -, -, -, -, YES, -, -
+2, 11, No, No, -, YES, -, -, -, -, -, -, -, -, YES
+2, 16, No, Yes, -, -, YES, YES, -, -, -, -, -, -, -
+2, 15, No, Yes, -, -, YES, -, YES, -, -, -, -, -, -
+2, 13, No, No, -, -, YES, -, -, YES, -, -, -, -, -
+2, 13, No, No, -, -, YES, -, -, -, YES, -, -, -, -
+2, 11, No, No, -, -, YES, -, -, -, -, YES, -, -, -
+2, 11, No, No, -, -, YES, -, -, -, -, -, YES, -, -
+2, 10, No, No, -, -, YES, -, -, -, -, -, -, -, YES
+2, 15, No, Yes, -, -, -, YES, YES, -, -, -, -, -, -
+2, 13, No, No, -, -, -, YES, -, YES, -, -, -, -, -
+2, 13, No, No, -, -, -, YES, -, -, YES, -, -, -, -
+2, 11, No, No, -, -, -, YES, -, -, -, YES, -, -, -
+2, 11, No, No, -, -, -, YES, -, -, -, -, YES, -, -
+2, 10, No, No, -, -, -, YES, -, -, -, -, -, -, YES
+2, 12, No, No, -, -, -, -, YES, YES, -, -, -, -, -
+2, 12, No, No, -, -, -, -, YES, -, YES, -, -, -, -
+2, 10, No, No, -, -, -, -, YES, -, -, YES, -, -, -
+2, 10, No, No, -, -, -, -, YES, -, -, -, YES, -, -
+2, 9, No, No, -, -, -, -, YES, -, -, -, -, -, YES
+2, 10, No, No, -, -, -, -, -, YES, YES, -, -, -, -
+2, 8, No, No, -, -, -, -, -, YES, -, YES, -, -, -
+2, 8, No, No, -, -, -, -, -, YES, -, -, YES, -, -
+2, 7, No, No, -, -, -, -, -, YES, -, -, -, YES, -
+2, 7, No, No, -, -, -, -, -, YES, -, -, -, -, YES
+2, 8, No, No, -, -, -, -, -, -, YES, YES, -, -, -
+2, 8, No, No, -, -, -, -, -, -, YES, -, YES, -, -
+2, 7, No, No, -, -, -, -, -, -, YES, -, -, -, YES
+2, 6, No, No, -, -, -, -, -, -, -, YES, YES, -, -
+2, 5, No, No, -, -, -, -, -, -, -, YES, -, -, YES
+2, 5, No, No, -, -, -, -, -, -, -, -, YES, -, YES
+3, 27, Yes, Yes, YES, YES, YES, -, -, -, -, -, -, -, -
+3, 27, Yes, Yes, YES, YES, -, YES, -, -, -, -, -, -, -
+3, 26, Yes, Yes, YES, YES, -, -, YES, -, -, -, -, -, -
+3, 24, Yes, Yes, YES, YES, -, -, -, YES, -, -, -, -, -
+3, 24, Yes, Yes, YES, YES, -, -, -, -, YES, -, -, -, -
+3, 22, Yes, Yes, YES, YES, -, -, -, -, -, YES, -, -, -
+3, 22, Yes, Yes, YES, YES, -, -, -, -, -, -, YES, -, -
+3, 21, Yes, Yes, YES, YES, -, -, -, -, -, -, -, -, YES
+3, 26, Yes, Yes, YES, -, YES, YES, -, -, -, -, -, -, -
+3, 25, Yes, Yes, YES, -, YES, -, YES, -, -, -, -, -, -
+3, 23, Yes, Yes, YES, -, YES, -, -, YES, -, -, -, -, -
+3, 23, Yes, Yes, YES, -, YES, -, -, -, YES, -, -, -, -
+3, 21, Yes, Yes, YES, -, YES, -, -, -, -, YES, -, -, -
+3, 21, Yes, Yes, YES, -, YES, -, -, -, -, -, YES, -, -
+3, 20, Yes, Yes, YES, -, YES, -, -, -, -, -, -, -, YES
+3, 25, Yes, Yes, YES, -, -, YES, YES, -, -, -, -, -, -
+3, 23, Yes, Yes, YES, -, -, YES, -, YES, -, -, -, -, -
+3, 23, Yes, Yes, YES, -, -, YES, -, -, YES, -, -, -, -
+3, 21, Yes, Yes, YES, -, -, YES, -, -, -, YES, -, -, -
+3, 21, Yes, Yes, YES, -, -, YES, -, -, -, -, YES, -, -
+3, 20, Yes, Yes, YES, -, -, YES, -, -, -, -, -, -, YES
+3, 22, Yes, Yes, YES, -, -, -, YES, YES, -, -, -, -, -
+3, 22, Yes, Yes, YES, -, -, -, YES, -, YES, -, -, -, -
+3, 20, Yes, Yes, YES, -, -, -, YES, -, -, YES, -, -, -
+3, 20, Yes, Yes, YES, -, -, -, YES, -, -, -, YES, -, -
+3, 19, Yes, Yes, YES, -, -, -, YES, -, -, -, -, -, YES
+3, 20, Yes, Yes, YES, -, -, -, -, YES, YES, -, -, -, -
+3, 18, Yes, Yes, YES, -, -, -, -, YES, -, YES, -, -, -
+3, 18, Yes, Yes, YES, -, -, -, -, YES, -, -, YES, -, -
+3, 17, Exp., Yes, YES, -, -, -, -, YES, -, -, -, YES, -
+3, 17, Exp., Yes, YES, -, -, -, -, YES, -, -, -, -, YES
+3, 18, Yes, Yes, YES, -, -, -, -, -, YES, YES, -, -, -
+3, 18, Yes, Yes, YES, -, -, -, -, -, YES, -, YES, -, -
+3, 17, Exp., Yes, YES, -, -, -, -, -, YES, -, -, -, YES
+3, 16, No, Yes, YES, -, -, -, -, -, -, YES, YES, -, -
+3, 15, No, Yes, YES, -, -, -, -, -, -, YES, -, -, YES
+3, 15, No, Yes, YES, -, -, -, -, -, -, -, YES, -, YES
+3, 25, Yes, Yes, -, YES, YES, YES, -, -, -, -, -, -, -
+3, 24, Yes, Yes, -, YES, YES, -, YES, -, -, -, -, -, -
+3, 22, Yes, Yes, -, YES, YES, -, -, YES, -, -, -, -, -
+3, 22, Yes, Yes, -, YES, YES, -, -, -, YES, -, -, -, -
+3, 20, Yes, Yes, -, YES, YES, -, -, -, -, YES, -, -, -
+3, 20, Yes, Yes, -, YES, YES, -, -, -, -, -, YES, -, -
+3, 19, Yes, Yes, -, YES, YES, -, -, -, -, -, -, -, YES
+3, 24, Yes, Yes, -, YES, -, YES, YES, -, -, -, -, -, -
+3, 22, Yes, Yes, -, YES, -, YES, -, YES, -, -, -, -, -
+3, 22, Yes, Yes, -, YES, -, YES, -, -, YES, -, -, -, -
+3, 20, Yes, Yes, -, YES, -, YES, -, -, -, YES, -, -, -
+3, 20, Yes, Yes, -, YES, -, YES, -, -, -, -, YES, -, -
+3, 19, Yes, Yes, -, YES, -, YES, -, -, -, -, -, -, YES
+3, 21, Yes, Yes, -, YES, -, -, YES, YES, -, -, -, -, -
+3, 21, Yes, Yes, -, YES, -, -, YES, -, YES, -, -, -, -
+3, 19, Yes, Yes, -, YES, -, -, YES, -, -, YES, -, -, -
+3, 19, Yes, Yes, -, YES, -, -, YES, -, -, -, YES, -, -
+3, 18, Yes, Yes, -, YES, -, -, YES, -, -, -, -, -, YES
+3, 19, Yes, Yes, -, YES, -, -, -, YES, YES, -, -, -, -
+3, 17, Exp., Yes, -, YES, -, -, -, YES, -, YES, -, -, -
+3, 17, Exp., Yes, -, YES, -, -, -, YES, -, -, YES, -, -
+3, 16, No, Yes, -, YES, -, -, -, YES, -, -, -, YES, -
+3, 16, No, Yes, -, YES, -, -, -, YES, -, -, -, -, YES
+3, 17, Exp., Yes, -, YES, -, -, -, -, YES, YES, -, -, -
+3, 17, Exp., Yes, -, YES, -, -, -, -, YES, -, YES, -, -
+3, 16, No, Yes, -, YES, -, -, -, -, YES, -, -, -, YES
+3, 15, No, Yes, -, YES, -, -, -, -, -, YES, YES, -, -
+3, 14, No, Yes, -, YES, -, -, -, -, -, YES, -, -, YES
+3, 14, No, Yes, -, YES, -, -, -, -, -, -, YES, -, YES
+3, 23, Yes, Yes, -, -, YES, YES, YES, -, -, -, -, -, -
+3, 21, Yes, Yes, -, -, YES, YES, -, YES, -, -, -, -, -
+3, 21, Yes, Yes, -, -, YES, YES, -, -, YES, -, -, -, -
+3, 19, Yes, Yes, -, -, YES, YES, -, -, -, YES, -, -, -
+3, 19, Yes, Yes, -, -, YES, YES, -, -, -, -, YES, -, -
+3, 18, Yes, Yes, -, -, YES, YES, -, -, -, -, -, -, YES
+3, 20, Yes, Yes, -, -, YES, -, YES, YES, -, -, -, -, -
+3, 20, Yes, Yes, -, -, YES, -, YES, -, YES, -, -, -, -
+3, 18, Yes, Yes, -, -, YES, -, YES, -, -, YES, -, -, -
+3, 18, Yes, Yes, -, -, YES, -, YES, -, -, -, YES, -, -
+3, 17, Exp., Yes, -, -, YES, -, YES, -, -, -, -, -, YES
+3, 18, Yes, Yes, -, -, YES, -, -, YES, YES, -, -, -, -
+3, 16, No, Yes, -, -, YES, -, -, YES, -, YES, -, -, -
+3, 16, No, Yes, -, -, YES, -, -, YES, -, -, YES, -, -
+3, 15, No, Yes, -, -, YES, -, -, YES, -, -, -, YES, -
+3, 15, No, Yes, -, -, YES, -, -, YES, -, -, -, -, YES
+3, 16, No, Yes, -, -, YES, -, -, -, YES, YES, -, -, -
+3, 16, No, Yes, -, -, YES, -, -, -, YES, -, YES, -, -
+3, 15, No, Yes, -, -, YES, -, -, -, YES, -, -, -, YES
+3, 14, No, Yes, -, -, YES, -, -, -, -, YES, YES, -, -
+3, 13, No, Yes, -, -, YES, -, -, -, -, YES, -, -, YES
+3, 13, No, Yes, -, -, YES, -, -, -, -, -, YES, -, YES
+3, 20, Yes, Yes, -, -, -, YES, YES, YES, -, -, -, -, -
+3, 20, Yes, Yes, -, -, -, YES, YES, -, YES, -, -, -, -
+3, 18, Yes, Yes, -, -, -, YES, YES, -, -, YES, -, -, -
+3, 18, Yes, Yes, -, -, -, YES, YES, -, -, -, YES, -, -
+3, 17, Exp., Yes, -, -, -, YES, YES, -, -, -, -, -, YES
+3, 18, Yes, Yes, -, -, -, YES, -, YES, YES, -, -, -, -
+3, 16, No, Yes, -, -, -, YES, -, YES, -, YES, -, -, -
+3, 16, No, Yes, -, -, -, YES, -, YES, -, -, YES, -, -
+3, 15, No, Yes, -, -, -, YES, -, YES, -, -, -, YES, -
+3, 15, No, Yes, -, -, -, YES, -, YES, -, -, -, -, YES
+3, 16, No, Yes, -, -, -, YES, -, -, YES, YES, -, -, -
+3, 16, No, Yes, -, -, -, YES, -, -, YES, -, YES, -, -
+3, 15, No, Yes, -, -, -, YES, -, -, YES, -, -, -, YES
+3, 14, No, Yes, -, -, -, YES, -, -, -, YES, YES, -, -
+3, 13, No, Yes, -, -, -, YES, -, -, -, YES, -, -, YES
+3, 13, No, Yes, -, -, -, YES, -, -, -, -, YES, -, YES
+3, 17, Exp., Yes, -, -, -, -, YES, YES, YES, -, -, -, -
+3, 15, No, Yes, -, -, -, -, YES, YES, -, YES, -, -, -
+3, 15, No, Yes, -, -, -, -, YES, YES, -, -, YES, -, -
+3, 14, No, Yes, -, -, -, -, YES, YES, -, -, -, YES, -
+3, 14, No, Yes, -, -, -, -, YES, YES, -, -, -, -, YES
+3, 15, No, Yes, -, -, -, -, YES, -, YES, YES, -, -, -
+3, 15, No, Yes, -, -, -, -, YES, -, YES, -, YES, -, -
+3, 14, No, Yes, -, -, -, -, YES, -, YES, -, -, -, YES
+3, 13, No, Yes, -, -, -, -, YES, -, -, YES, YES, -, -
+3, 12, No, Yes, -, -, -, -, YES, -, -, YES, -, -, YES
+3, 12, No, Yes, -, -, -, -, YES, -, -, -, YES, -, YES
+3, 13, No, No, -, -, -, -, -, YES, YES, YES, -, -, -
+3, 13, No, No, -, -, -, -, -, YES, YES, -, YES, -, -
+3, 12, No, No, -, -, -, -, -, YES, YES, -, -, YES, -
+3, 12, No, No, -, -, -, -, -, YES, YES, -, -, -, YES
+3, 11, No, No, -, -, -, -, -, YES, -, YES, YES, -, -
+3, 10, No, No, -, -, -, -, -, YES, -, YES, -, YES, -
+3, 10, No, No, -, -, -, -, -, YES, -, YES, -, -, YES
+3, 10, No, No, -, -, -, -, -, YES, -, -, YES, YES, -
+3, 10, No, No, -, -, -, -, -, YES, -, -, YES, -, YES
+3, 9, No, No, -, -, -, -, -, YES, -, -, -, YES, YES
+3, 11, No, No, -, -, -, -, -, -, YES, YES, YES, -, -
+3, 10, No, No, -, -, -, -, -, -, YES, YES, -, -, YES
+3, 10, No, No, -, -, -, -, -, -, YES, -, YES, -, YES
+3, 8, No, No, -, -, -, -, -, -, -, YES, YES, -, YES
+4, 35, Yes, Yes, YES, YES, YES, YES, -, -, -, -, -, -, -
+4, 34, Yes, Yes, YES, YES, YES, -, YES, -, -, -, -, -, -
+4, 32, Yes, Yes, YES, YES, YES, -, -, YES, -, -, -, -, -
+4, 32, Yes, Yes, YES, YES, YES, -, -, -, YES, -, -, -, -
+4, 30, Yes, Yes, YES, YES, YES, -, -, -, -, YES, -, -, -
+4, 30, Yes, Yes, YES, YES, YES, -, -, -, -, -, YES, -, -
+4, 29, Yes, Yes, YES, YES, YES, -, -, -, -, -, -, -, YES
+4, 34, Yes, Yes, YES, YES, -, YES, YES, -, -, -, -, -, -
+4, 32, Yes, Yes, YES, YES, -, YES, -, YES, -, -, -, -, -
+4, 32, Yes, Yes, YES, YES, -, YES, -, -, YES, -, -, -, -
+4, 30, Yes, Yes, YES, YES, -, YES, -, -, -, YES, -, -, -
+4, 30, Yes, Yes, YES, YES, -, YES, -, -, -, -, YES, -, -
+4, 29, Yes, Yes, YES, YES, -, YES, -, -, -, -, -, -, YES
+4, 31, Yes, Yes, YES, YES, -, -, YES, YES, -, -, -, -, -
+4, 31, Yes, Yes, YES, YES, -, -, YES, -, YES, -, -, -, -
+4, 29, Yes, Yes, YES, YES, -, -, YES, -, -, YES, -, -, -
+4, 29, Yes, Yes, YES, YES, -, -, YES, -, -, -, YES, -, -
+4, 28, Yes, Yes, YES, YES, -, -, YES, -, -, -, -, -, YES
+4, 29, Yes, Yes, YES, YES, -, -, -, YES, YES, -, -, -, -
+4, 27, Yes, Yes, YES, YES, -, -, -, YES, -, YES, -, -, -
+4, 27, Yes, Yes, YES, YES, -, -, -, YES, -, -, YES, -, -
+4, 26, Yes, Yes, YES, YES, -, -, -, YES, -, -, -, YES, -
+4, 26, Yes, Yes, YES, YES, -, -, -, YES, -, -, -, -, YES
+4, 27, Yes, Yes, YES, YES, -, -, -, -, YES, YES, -, -, -
+4, 27, Yes, Yes, YES, YES, -, -, -, -, YES, -, YES, -, -
+4, 26, Yes, Yes, YES, YES, -, -, -, -, YES, -, -, -, YES
+4, 25, Yes, Yes, YES, YES, -, -, -, -, -, YES, YES, -, -
+4, 24, Yes, Yes, YES, YES, -, -, -, -, -, YES, -, -, YES
+4, 24, Yes, Yes, YES, YES, -, -, -, -, -, -, YES, -, YES
+4, 33, Yes, Yes, YES, -, YES, YES, YES, -, -, -, -, -, -
+4, 31, Yes, Yes, YES, -, YES, YES, -, YES, -, -, -, -, -
+4, 31, Yes, Yes, YES, -, YES, YES, -, -, YES, -, -, -, -
+4, 29, Yes, Yes, YES, -, YES, YES, -, -, -, YES, -, -, -
+4, 29, Yes, Yes, YES, -, YES, YES, -, -, -, -, YES, -, -
+4, 28, Yes, Yes, YES, -, YES, YES, -, -, -, -, -, -, YES
+4, 30, Yes, Yes, YES, -, YES, -, YES, YES, -, -, -, -, -
+4, 30, Yes, Yes, YES, -, YES, -, YES, -, YES, -, -, -, -
+4, 28, Yes, Yes, YES, -, YES, -, YES, -, -, YES, -, -, -
+4, 28, Yes, Yes, YES, -, YES, -, YES, -, -, -, YES, -, -
+4, 27, Yes, Yes, YES, -, YES, -, YES, -, -, -, -, -, YES
+4, 28, Yes, Yes, YES, -, YES, -, -, YES, YES, -, -, -, -
+4, 26, Yes, Yes, YES, -, YES, -, -, YES, -, YES, -, -, -
+4, 26, Yes, Yes, YES, -, YES, -, -, YES, -, -, YES, -, -
+4, 25, Yes, Yes, YES, -, YES, -, -, YES, -, -, -, YES, -
+4, 25, Yes, Yes, YES, -, YES, -, -, YES, -, -, -, -, YES
+4, 26, Yes, Yes, YES, -, YES, -, -, -, YES, YES, -, -, -
+4, 26, Yes, Yes, YES, -, YES, -, -, -, YES, -, YES, -, -
+4, 25, Yes, Yes, YES, -, YES, -, -, -, YES, -, -, -, YES
+4, 24, Yes, Yes, YES, -, YES, -, -, -, -, YES, YES, -, -
+4, 23, Yes, Yes, YES, -, YES, -, -, -, -, YES, -, -, YES
+4, 23, Yes, Yes, YES, -, YES, -, -, -, -, -, YES, -, YES
+4, 30, Yes, Yes, YES, -, -, YES, YES, YES, -, -, -, -, -
+4, 30, Yes, Yes, YES, -, -, YES, YES, -, YES, -, -, -, -
+4, 28, Yes, Yes, YES, -, -, YES, YES, -, -, YES, -, -, -
+4, 28, Yes, Yes, YES, -, -, YES, YES, -, -, -, YES, -, -
+4, 27, Yes, Yes, YES, -, -, YES, YES, -, -, -, -, -, YES
+4, 28, Yes, Yes, YES, -, -, YES, -, YES, YES, -, -, -, -
+4, 26, Yes, Yes, YES, -, -, YES, -, YES, -, YES, -, -, -
+4, 26, Yes, Yes, YES, -, -, YES, -, YES, -, -, YES, -, -
+4, 25, Yes, Yes, YES, -, -, YES, -, YES, -, -, -, YES, -
+4, 25, Yes, Yes, YES, -, -, YES, -, YES, -, -, -, -, YES
+4, 26, Yes, Yes, YES, -, -, YES, -, -, YES, YES, -, -, -
+4, 26, Yes, Yes, YES, -, -, YES, -, -, YES, -, YES, -, -
+4, 25, Yes, Yes, YES, -, -, YES, -, -, YES, -, -, -, YES
+4, 24, Yes, Yes, YES, -, -, YES, -, -, -, YES, YES, -, -
+4, 23, Yes, Yes, YES, -, -, YES, -, -, -, YES, -, -, YES
+4, 23, Yes, Yes, YES, -, -, YES, -, -, -, -, YES, -, YES
+4, 27, Yes, Yes, YES, -, -, -, YES, YES, YES, -, -, -, -
+4, 25, Yes, Yes, YES, -, -, -, YES, YES, -, YES, -, -, -
+4, 25, Yes, Yes, YES, -, -, -, YES, YES, -, -, YES, -, -
+4, 24, Yes, Yes, YES, -, -, -, YES, YES, -, -, -, YES, -
+4, 24, Yes, Yes, YES, -, -, -, YES, YES, -, -, -, -, YES
+4, 25, Yes, Yes, YES, -, -, -, YES, -, YES, YES, -, -, -
+4, 25, Yes, Yes, YES, -, -, -, YES, -, YES, -, YES, -, -
+4, 24, Yes, Yes, YES, -, -, -, YES, -, YES, -, -, -, YES
+4, 23, Yes, Yes, YES, -, -, -, YES, -, -, YES, YES, -, -
+4, 22, Yes, Yes, YES, -, -, -, YES, -, -, YES, -, -, YES
+4, 22, Yes, Yes, YES, -, -, -, YES, -, -, -, YES, -, YES
+4, 23, Yes, Yes, YES, -, -, -, -, YES, YES, YES, -, -, -
+4, 23, Yes, Yes, YES, -, -, -, -, YES, YES, -, YES, -, -
+4, 22, Yes, Yes, YES, -, -, -, -, YES, YES, -, -, YES, -
+4, 22, Yes, Yes, YES, -, -, -, -, YES, YES, -, -, -, YES
+4, 21, Yes, Yes, YES, -, -, -, -, YES, -, YES, YES, -, -
+4, 20, Exp., Yes, YES, -, -, -, -, YES, -, YES, -, YES, -
+4, 20, Exp., Yes, YES, -, -, -, -, YES, -, YES, -, -, YES
+4, 20, Exp., Yes, YES, -, -, -, -, YES, -, -, YES, YES, -
+4, 20, Exp., Yes, YES, -, -, -, -, YES, -, -, YES, -, YES
+4, 19, Exp., Yes, YES, -, -, -, -, YES, -, -, -, YES, YES
+4, 21, Yes, Yes, YES, -, -, -, -, -, YES, YES, YES, -, -
+4, 20, Exp., Yes, YES, -, -, -, -, -, YES, YES, -, -, YES
+4, 20, Exp., Yes, YES, -, -, -, -, -, YES, -, YES, -, YES
+4, 18, Exp., Yes, YES, -, -, -, -, -, -, YES, YES, -, YES
+4, 32, Yes, Yes, -, YES, YES, YES, YES, -, -, -, -, -, -
+4, 30, Yes, Yes, -, YES, YES, YES, -, YES, -, -, -, -, -
+4, 30, Yes, Yes, -, YES, YES, YES, -, -, YES, -, -, -, -
+4, 28, Yes, Yes, -, YES, YES, YES, -, -, -, YES, -, -, -
+4, 28, Yes, Yes, -, YES, YES, YES, -, -, -, -, YES, -, -
+4, 27, Yes, Yes, -, YES, YES, YES, -, -, -, -, -, -, YES
+4, 29, Yes, Yes, -, YES, YES, -, YES, YES, -, -, -, -, -
+4, 29, Yes, Yes, -, YES, YES, -, YES, -, YES, -, -, -, -
+4, 27, Yes, Yes, -, YES, YES, -, YES, -, -, YES, -, -, -
+4, 27, Yes, Yes, -, YES, YES, -, YES, -, -, -, YES, -, -
+4, 26, Yes, Yes, -, YES, YES, -, YES, -, -, -, -, -, YES
+4, 27, Yes, Yes, -, YES, YES, -, -, YES, YES, -, -, -, -
+4, 25, Yes, Yes, -, YES, YES, -, -, YES, -, YES, -, -, -
+4, 25, Yes, Yes, -, YES, YES, -, -, YES, -, -, YES, -, -
+4, 24, Yes, Yes, -, YES, YES, -, -, YES, -, -, -, YES, -
+4, 24, Yes, Yes, -, YES, YES, -, -, YES, -, -, -, -, YES
+4, 25, Yes, Yes, -, YES, YES, -, -, -, YES, YES, -, -, -
+4, 25, Yes, Yes, -, YES, YES, -, -, -, YES, -, YES, -, -
+4, 24, Yes, Yes, -, YES, YES, -, -, -, YES, -, -, -, YES
+4, 23, Yes, Yes, -, YES, YES, -, -, -, -, YES, YES, -, -
+4, 22, Yes, Yes, -, YES, YES, -, -, -, -, YES, -, -, YES
+4, 22, Yes, Yes, -, YES, YES, -, -, -, -, -, YES, -, YES
+4, 29, Yes, Yes, -, YES, -, YES, YES, YES, -, -, -, -, -
+4, 29, Yes, Yes, -, YES, -, YES, YES, -, YES, -, -, -, -
+4, 27, Yes, Yes, -, YES, -, YES, YES, -, -, YES, -, -, -
+4, 27, Yes, Yes, -, YES, -, YES, YES, -, -, -, YES, -, -
+4, 26, Yes, Yes, -, YES, -, YES, YES, -, -, -, -, -, YES
+4, 27, Yes, Yes, -, YES, -, YES, -, YES, YES, -, -, -, -
+4, 25, Yes, Yes, -, YES, -, YES, -, YES, -, YES, -, -, -
+4, 25, Yes, Yes, -, YES, -, YES, -, YES, -, -, YES, -, -
+4, 24, Yes, Yes, -, YES, -, YES, -, YES, -, -, -, YES, -
+4, 24, Yes, Yes, -, YES, -, YES, -, YES, -, -, -, -, YES
+4, 25, Yes, Yes, -, YES, -, YES, -, -, YES, YES, -, -, -
+4, 25, Yes, Yes, -, YES, -, YES, -, -, YES, -, YES, -, -
+4, 24, Yes, Yes, -, YES, -, YES, -, -, YES, -, -, -, YES
+4, 23, Yes, Yes, -, YES, -, YES, -, -, -, YES, YES, -, -
+4, 22, Yes, Yes, -, YES, -, YES, -, -, -, YES, -, -, YES
+4, 22, Yes, Yes, -, YES, -, YES, -, -, -, -, YES, -, YES
+4, 26, Yes, Yes, -, YES, -, -, YES, YES, YES, -, -, -, -
+4, 24, Yes, Yes, -, YES, -, -, YES, YES, -, YES, -, -, -
+4, 24, Yes, Yes, -, YES, -, -, YES, YES, -, -, YES, -, -
+4, 23, Yes, Yes, -, YES, -, -, YES, YES, -, -, -, YES, -
+4, 23, Yes, Yes, -, YES, -, -, YES, YES, -, -, -, -, YES
+4, 24, Yes, Yes, -, YES, -, -, YES, -, YES, YES, -, -, -
+4, 24, Yes, Yes, -, YES, -, -, YES, -, YES, -, YES, -, -
+4, 23, Yes, Yes, -, YES, -, -, YES, -, YES, -, -, -, YES
+4, 22, Yes, Yes, -, YES, -, -, YES, -, -, YES, YES, -, -
+4, 21, Yes, Yes, -, YES, -, -, YES, -, -, YES, -, -, YES
+4, 21, Yes, Yes, -, YES, -, -, YES, -, -, -, YES, -, YES
+4, 22, Yes, Yes, -, YES, -, -, -, YES, YES, YES, -, -, -
+4, 22, Yes, Yes, -, YES, -, -, -, YES, YES, -, YES, -, -
+4, 21, Yes, Yes, -, YES, -, -, -, YES, YES, -, -, YES, -
+4, 21, Yes, Yes, -, YES, -, -, -, YES, YES, -, -, -, YES
+4, 20, Exp., Yes, -, YES, -, -, -, YES, -, YES, YES, -, -
+4, 19, Exp., Yes, -, YES, -, -, -, YES, -, YES, -, YES, -
+4, 19, Exp., Yes, -, YES, -, -, -, YES, -, YES, -, -, YES
+4, 19, Exp., Yes, -, YES, -, -, -, YES, -, -, YES, YES, -
+4, 19, Exp., Yes, -, YES, -, -, -, YES, -, -, YES, -, YES
+4, 18, Exp., Yes, -, YES, -, -, -, YES, -, -, -, YES, YES
+4, 20, Exp., Yes, -, YES, -, -, -, -, YES, YES, YES, -, -
+4, 19, Exp., Yes, -, YES, -, -, -, -, YES, YES, -, -, YES
+4, 19, Exp., Yes, -, YES, -, -, -, -, YES, -, YES, -, YES
+4, 17, Exp., Yes, -, YES, -, -, -, -, -, YES, YES, -, YES
+4, 28, Yes, Yes, -, -, YES, YES, YES, YES, -, -, -, -, -
+4, 28, Yes, Yes, -, -, YES, YES, YES, -, YES, -, -, -, -
+4, 26, Yes, Yes, -, -, YES, YES, YES, -, -, YES, -, -, -
+4, 26, Yes, Yes, -, -, YES, YES, YES, -, -, -, YES, -, -
+4, 25, Yes, Yes, -, -, YES, YES, YES, -, -, -, -, -, YES
+4, 26, Yes, Yes, -, -, YES, YES, -, YES, YES, -, -, -, -
+4, 24, Yes, Yes, -, -, YES, YES, -, YES, -, YES, -, -, -
+4, 24, Yes, Yes, -, -, YES, YES, -, YES, -, -, YES, -, -
+4, 23, Yes, Yes, -, -, YES, YES, -, YES, -, -, -, YES, -
+4, 23, Yes, Yes, -, -, YES, YES, -, YES, -, -, -, -, YES
+4, 24, Yes, Yes, -, -, YES, YES, -, -, YES, YES, -, -, -
+4, 24, Yes, Yes, -, -, YES, YES, -, -, YES, -, YES, -, -
+4, 23, Yes, Yes, -, -, YES, YES, -, -, YES, -, -, -, YES
+4, 22, Yes, Yes, -, -, YES, YES, -, -, -, YES, YES, -, -
+4, 21, Yes, Yes, -, -, YES, YES, -, -, -, YES, -, -, YES
+4, 21, Yes, Yes, -, -, YES, YES, -, -, -, -, YES, -, YES
+4, 25, Yes, Yes, -, -, YES, -, YES, YES, YES, -, -, -, -
+4, 23, Yes, Yes, -, -, YES, -, YES, YES, -, YES, -, -, -
+4, 23, Yes, Yes, -, -, YES, -, YES, YES, -, -, YES, -, -
+4, 22, Yes, Yes, -, -, YES, -, YES, YES, -, -, -, YES, -
+4, 22, Yes, Yes, -, -, YES, -, YES, YES, -, -, -, -, YES
+4, 23, Yes, Yes, -, -, YES, -, YES, -, YES, YES, -, -, -
+4, 23, Yes, Yes, -, -, YES, -, YES, -, YES, -, YES, -, -
+4, 22, Yes, Yes, -, -, YES, -, YES, -, YES, -, -, -, YES
+4, 21, Yes, Yes, -, -, YES, -, YES, -, -, YES, YES, -, -
+4, 20, Exp., Yes, -, -, YES, -, YES, -, -, YES, -, -, YES
+4, 20, Exp., Yes, -, -, YES, -, YES, -, -, -, YES, -, YES
+4, 21, Yes, Yes, -, -, YES, -, -, YES, YES, YES, -, -, -
+4, 21, Yes, Yes, -, -, YES, -, -, YES, YES, -, YES, -, -
+4, 20, Exp., Yes, -, -, YES, -, -, YES, YES, -, -, YES, -
+4, 20, Exp., Yes, -, -, YES, -, -, YES, YES, -, -, -, YES
+4, 19, Exp., Yes, -, -, YES, -, -, YES, -, YES, YES, -, -
+4, 18, Exp., Yes, -, -, YES, -, -, YES, -, YES, -, YES, -
+4, 18, Exp., Yes, -, -, YES, -, -, YES, -, YES, -, -, YES
+4, 18, Exp., Yes, -, -, YES, -, -, YES, -, -, YES, YES, -
+4, 18, Exp., Yes, -, -, YES, -, -, YES, -, -, YES, -, YES
+4, 17, Exp., Yes, -, -, YES, -, -, YES, -, -, -, YES, YES
+4, 19, Exp., Yes, -, -, YES, -, -, -, YES, YES, YES, -, -
+4, 18, Exp., Yes, -, -, YES, -, -, -, YES, YES, -, -, YES
+4, 18, Exp., Yes, -, -, YES, -, -, -, YES, -, YES, -, YES
+4, 16, No, Yes, -, -, YES, -, -, -, -, YES, YES, -, YES
+4, 25, Yes, Yes, -, -, -, YES, YES, YES, YES, -, -, -, -
+4, 23, Yes, Yes, -, -, -, YES, YES, YES, -, YES, -, -, -
+4, 23, Yes, Yes, -, -, -, YES, YES, YES, -, -, YES, -, -
+4, 22, Yes, Yes, -, -, -, YES, YES, YES, -, -, -, YES, -
+4, 22, Yes, Yes, -, -, -, YES, YES, YES, -, -, -, -, YES
+4, 23, Yes, Yes, -, -, -, YES, YES, -, YES, YES, -, -, -
+4, 23, Yes, Yes, -, -, -, YES, YES, -, YES, -, YES, -, -
+4, 22, Yes, Yes, -, -, -, YES, YES, -, YES, -, -, -, YES
+4, 21, Yes, Yes, -, -, -, YES, YES, -, -, YES, YES, -, -
+4, 20, Exp., Yes, -, -, -, YES, YES, -, -, YES, -, -, YES
+4, 20, Exp., Yes, -, -, -, YES, YES, -, -, -, YES, -, YES
+4, 21, Yes, Yes, -, -, -, YES, -, YES, YES, YES, -, -, -
+4, 21, Yes, Yes, -, -, -, YES, -, YES, YES, -, YES, -, -
+4, 20, Exp., Yes, -, -, -, YES, -, YES, YES, -, -, YES, -
+4, 20, Exp., Yes, -, -, -, YES, -, YES, YES, -, -, -, YES
+4, 19, Exp., Yes, -, -, -, YES, -, YES, -, YES, YES, -, -
+4, 18, Exp., Yes, -, -, -, YES, -, YES, -, YES, -, YES, -
+4, 18, Exp., Yes, -, -, -, YES, -, YES, -, YES, -, -, YES
+4, 18, Exp., Yes, -, -, -, YES, -, YES, -, -, YES, YES, -
+4, 18, Exp., Yes, -, -, -, YES, -, YES, -, -, YES, -, YES
+4, 17, Exp., Yes, -, -, -, YES, -, YES, -, -, -, YES, YES
+4, 19, Exp., Yes, -, -, -, YES, -, -, YES, YES, YES, -, -
+4, 18, Exp., Yes, -, -, -, YES, -, -, YES, YES, -, -, YES
+4, 18, Exp., Yes, -, -, -, YES, -, -, YES, -, YES, -, YES
+4, 16, No, Yes, -, -, -, YES, -, -, -, YES, YES, -, YES
+4, 20, Exp., Yes, -, -, -, -, YES, YES, YES, YES, -, -, -
+4, 20, Exp., Yes, -, -, -, -, YES, YES, YES, -, YES, -, -
+4, 19, Exp., Yes, -, -, -, -, YES, YES, YES, -, -, YES, -
+4, 19, Exp., Yes, -, -, -, -, YES, YES, YES, -, -, -, YES
+4, 18, Exp., Yes, -, -, -, -, YES, YES, -, YES, YES, -, -
+4, 17, Exp., Yes, -, -, -, -, YES, YES, -, YES, -, YES, -
+4, 17, Exp., Yes, -, -, -, -, YES, YES, -, YES, -, -, YES
+4, 17, Exp., Yes, -, -, -, -, YES, YES, -, -, YES, YES, -
+4, 17, Exp., Yes, -, -, -, -, YES, YES, -, -, YES, -, YES
+4, 16, No, Yes, -, -, -, -, YES, YES, -, -, -, YES, YES
+4, 18, Exp., Yes, -, -, -, -, YES, -, YES, YES, YES, -, -
+4, 17, Exp., Yes, -, -, -, -, YES, -, YES, YES, -, -, YES
+4, 17, Exp., Yes, -, -, -, -, YES, -, YES, -, YES, -, YES
+4, 15, No, Yes, -, -, -, -, YES, -, -, YES, YES, -, YES
+4, 16, No, No, -, -, -, -, -, YES, YES, YES, YES, -, -
+4, 15, No, No, -, -, -, -, -, YES, YES, YES, -, YES, -
+4, 15, No, No, -, -, -, -, -, YES, YES, YES, -, -, YES
+4, 15, No, No, -, -, -, -, -, YES, YES, -, YES, YES, -
+4, 15, No, No, -, -, -, -, -, YES, YES, -, YES, -, YES
+4, 14, No, No, -, -, -, -, -, YES, YES, -, -, YES, YES
+4, 13, No, No, -, -, -, -, -, YES, -, YES, YES, YES, -
+4, 13, No, No, -, -, -, -, -, YES, -, YES, YES, -, YES
+4, 12, No, No, -, -, -, -, -, YES, -, YES, -, YES, YES
+4, 12, No, No, -, -, -, -, -, YES, -, -, YES, YES, YES
+4, 13, No, No, -, -, -, -, -, -, YES, YES, YES, -, YES
+5, 42, Yes, Yes, YES, YES, YES, YES, YES, -, -, -, -, -, -
+5, 40, Yes, Yes, YES, YES, YES, YES, -, YES, -, -, -, -, -
+5, 40, Yes, Yes, YES, YES, YES, YES, -, -, YES, -, -, -, -
+5, 38, Yes, Yes, YES, YES, YES, YES, -, -, -, YES, -, -, -
+5, 38, Yes, Yes, YES, YES, YES, YES, -, -, -, -, YES, -, -
+5, 37, Yes, Yes, YES, YES, YES, YES, -, -, -, -, -, -, YES
+5, 39, Yes, Yes, YES, YES, YES, -, YES, YES, -, -, -, -, -
+5, 39, Yes, Yes, YES, YES, YES, -, YES, -, YES, -, -, -, -
+5, 37, Yes, Yes, YES, YES, YES, -, YES, -, -, YES, -, -, -
+5, 37, Yes, Yes, YES, YES, YES, -, YES, -, -, -, YES, -, -
+5, 36, Yes, Yes, YES, YES, YES, -, YES, -, -, -, -, -, YES
+5, 37, Yes, Yes, YES, YES, YES, -, -, YES, YES, -, -, -, -
+5, 35, Yes, Yes, YES, YES, YES, -, -, YES, -, YES, -, -, -
+5, 35, Yes, Yes, YES, YES, YES, -, -, YES, -, -, YES, -, -
+5, 34, Yes, Yes, YES, YES, YES, -, -, YES, -, -, -, YES, -
+5, 34, Yes, Yes, YES, YES, YES, -, -, YES, -, -, -, -, YES
+5, 35, Yes, Yes, YES, YES, YES, -, -, -, YES, YES, -, -, -
+5, 35, Yes, Yes, YES, YES, YES, -, -, -, YES, -, YES, -, -
+5, 34, Yes, Yes, YES, YES, YES, -, -, -, YES, -, -, -, YES
+5, 33, Yes, Yes, YES, YES, YES, -, -, -, -, YES, YES, -, -
+5, 32, Yes, Yes, YES, YES, YES, -, -, -, -, YES, -, -, YES
+5, 32, Yes, Yes, YES, YES, YES, -, -, -, -, -, YES, -, YES
+5, 39, Yes, Yes, YES, YES, -, YES, YES, YES, -, -, -, -, -
+5, 39, Yes, Yes, YES, YES, -, YES, YES, -, YES, -, -, -, -
+5, 37, Yes, Yes, YES, YES, -, YES, YES, -, -, YES, -, -, -
+5, 37, Yes, Yes, YES, YES, -, YES, YES, -, -, -, YES, -, -
+5, 36, Yes, Yes, YES, YES, -, YES, YES, -, -, -, -, -, YES
+5, 37, Yes, Yes, YES, YES, -, YES, -, YES, YES, -, -, -, -
+5, 35, Yes, Yes, YES, YES, -, YES, -, YES, -, YES, -, -, -
+5, 35, Yes, Yes, YES, YES, -, YES, -, YES, -, -, YES, -, -
+5, 34, Yes, Yes, YES, YES, -, YES, -, YES, -, -, -, YES, -
+5, 34, Yes, Yes, YES, YES, -, YES, -, YES, -, -, -, -, YES
+5, 35, Yes, Yes, YES, YES, -, YES, -, -, YES, YES, -, -, -
+5, 35, Yes, Yes, YES, YES, -, YES, -, -, YES, -, YES, -, -
+5, 34, Yes, Yes, YES, YES, -, YES, -, -, YES, -, -, -, YES
+5, 33, Yes, Yes, YES, YES, -, YES, -, -, -, YES, YES, -, -
+5, 32, Yes, Yes, YES, YES, -, YES, -, -, -, YES, -, -, YES
+5, 32, Yes, Yes, YES, YES, -, YES, -, -, -, -, YES, -, YES
+5, 36, Yes, Yes, YES, YES, -, -, YES, YES, YES, -, -, -, -
+5, 34, Yes, Yes, YES, YES, -, -, YES, YES, -, YES, -, -, -
+5, 34, Yes, Yes, YES, YES, -, -, YES, YES, -, -, YES, -, -
+5, 33, Yes, Yes, YES, YES, -, -, YES, YES, -, -, -, YES, -
+5, 33, Yes, Yes, YES, YES, -, -, YES, YES, -, -, -, -, YES
+5, 34, Yes, Yes, YES, YES, -, -, YES, -, YES, YES, -, -, -
+5, 34, Yes, Yes, YES, YES, -, -, YES, -, YES, -, YES, -, -
+5, 33, Yes, Yes, YES, YES, -, -, YES, -, YES, -, -, -, YES
+5, 32, Yes, Yes, YES, YES, -, -, YES, -, -, YES, YES, -, -
+5, 31, Yes, Yes, YES, YES, -, -, YES, -, -, YES, -, -, YES
+5, 31, Yes, Yes, YES, YES, -, -, YES, -, -, -, YES, -, YES
+5, 32, Yes, Yes, YES, YES, -, -, -, YES, YES, YES, -, -, -
+5, 32, Yes, Yes, YES, YES, -, -, -, YES, YES, -, YES, -, -
+5, 31, Yes, Yes, YES, YES, -, -, -, YES, YES, -, -, YES, -
+5, 31, Yes, Yes, YES, YES, -, -, -, YES, YES, -, -, -, YES
+5, 30, Yes, Yes, YES, YES, -, -, -, YES, -, YES, YES, -, -
+5, 29, Yes, Yes, YES, YES, -, -, -, YES, -, YES, -, YES, -
+5, 29, Yes, Yes, YES, YES, -, -, -, YES, -, YES, -, -, YES
+5, 29, Yes, Yes, YES, YES, -, -, -, YES, -, -, YES, YES, -
+5, 29, Yes, Yes, YES, YES, -, -, -, YES, -, -, YES, -, YES
+5, 28, Yes, Yes, YES, YES, -, -, -, YES, -, -, -, YES, YES
+5, 30, Yes, Yes, YES, YES, -, -, -, -, YES, YES, YES, -, -
+5, 29, Yes, Yes, YES, YES, -, -, -, -, YES, YES, -, -, YES
+5, 29, Yes, Yes, YES, YES, -, -, -, -, YES, -, YES, -, YES
+5, 27, Yes, Yes, YES, YES, -, -, -, -, -, YES, YES, -, YES
+5, 38, Yes, Yes, YES, -, YES, YES, YES, YES, -, -, -, -, -
+5, 38, Yes, Yes, YES, -, YES, YES, YES, -, YES, -, -, -, -
+5, 36, Yes, Yes, YES, -, YES, YES, YES, -, -, YES, -, -, -
+5, 36, Yes, Yes, YES, -, YES, YES, YES, -, -, -, YES, -, -
+5, 35, Yes, Yes, YES, -, YES, YES, YES, -, -, -, -, -, YES
+5, 36, Yes, Yes, YES, -, YES, YES, -, YES, YES, -, -, -, -
+5, 34, Yes, Yes, YES, -, YES, YES, -, YES, -, YES, -, -, -
+5, 34, Yes, Yes, YES, -, YES, YES, -, YES, -, -, YES, -, -
+5, 33, Yes, Yes, YES, -, YES, YES, -, YES, -, -, -, YES, -
+5, 33, Yes, Yes, YES, -, YES, YES, -, YES, -, -, -, -, YES
+5, 34, Yes, Yes, YES, -, YES, YES, -, -, YES, YES, -, -, -
+5, 34, Yes, Yes, YES, -, YES, YES, -, -, YES, -, YES, -, -
+5, 33, Yes, Yes, YES, -, YES, YES, -, -, YES, -, -, -, YES
+5, 32, Yes, Yes, YES, -, YES, YES, -, -, -, YES, YES, -, -
+5, 31, Yes, Yes, YES, -, YES, YES, -, -, -, YES, -, -, YES
+5, 31, Yes, Yes, YES, -, YES, YES, -, -, -, -, YES, -, YES
+5, 35, Yes, Yes, YES, -, YES, -, YES, YES, YES, -, -, -, -
+5, 33, Yes, Yes, YES, -, YES, -, YES, YES, -, YES, -, -, -
+5, 33, Yes, Yes, YES, -, YES, -, YES, YES, -, -, YES, -, -
+5, 32, Yes, Yes, YES, -, YES, -, YES, YES, -, -, -, YES, -
+5, 32, Yes, Yes, YES, -, YES, -, YES, YES, -, -, -, -, YES
+5, 33, Yes, Yes, YES, -, YES, -, YES, -, YES, YES, -, -, -
+5, 33, Yes, Yes, YES, -, YES, -, YES, -, YES, -, YES, -, -
+5, 32, Yes, Yes, YES, -, YES, -, YES, -, YES, -, -, -, YES
+5, 31, Yes, Yes, YES, -, YES, -, YES, -, -, YES, YES, -, -
+5, 30, Yes, Yes, YES, -, YES, -, YES, -, -, YES, -, -, YES
+5, 30, Yes, Yes, YES, -, YES, -, YES, -, -, -, YES, -, YES
+5, 31, Yes, Yes, YES, -, YES, -, -, YES, YES, YES, -, -, -
+5, 31, Yes, Yes, YES, -, YES, -, -, YES, YES, -, YES, -, -
+5, 30, Yes, Yes, YES, -, YES, -, -, YES, YES, -, -, YES, -
+5, 30, Yes, Yes, YES, -, YES, -, -, YES, YES, -, -, -, YES
+5, 29, Yes, Yes, YES, -, YES, -, -, YES, -, YES, YES, -, -
+5, 28, Yes, Yes, YES, -, YES, -, -, YES, -, YES, -, YES, -
+5, 28, Yes, Yes, YES, -, YES, -, -, YES, -, YES, -, -, YES
+5, 28, Yes, Yes, YES, -, YES, -, -, YES, -, -, YES, YES, -
+5, 28, Yes, Yes, YES, -, YES, -, -, YES, -, -, YES, -, YES
+5, 27, Yes, Yes, YES, -, YES, -, -, YES, -, -, -, YES, YES
+5, 29, Yes, Yes, YES, -, YES, -, -, -, YES, YES, YES, -, -
+5, 28, Yes, Yes, YES, -, YES, -, -, -, YES, YES, -, -, YES
+5, 28, Yes, Yes, YES, -, YES, -, -, -, YES, -, YES, -, YES
+5, 26, Yes, Yes, YES, -, YES, -, -, -, -, YES, YES, -, YES
+5, 35, Yes, Yes, YES, -, -, YES, YES, YES, YES, -, -, -, -
+5, 33, Yes, Yes, YES, -, -, YES, YES, YES, -, YES, -, -, -
+5, 33, Yes, Yes, YES, -, -, YES, YES, YES, -, -, YES, -, -
+5, 32, Yes, Yes, YES, -, -, YES, YES, YES, -, -, -, YES, -
+5, 32, Yes, Yes, YES, -, -, YES, YES, YES, -, -, -, -, YES
+5, 33, Yes, Yes, YES, -, -, YES, YES, -, YES, YES, -, -, -
+5, 33, Yes, Yes, YES, -, -, YES, YES, -, YES, -, YES, -, -
+5, 32, Yes, Yes, YES, -, -, YES, YES, -, YES, -, -, -, YES
+5, 31, Yes, Yes, YES, -, -, YES, YES, -, -, YES, YES, -, -
+5, 30, Yes, Yes, YES, -, -, YES, YES, -, -, YES, -, -, YES
+5, 30, Yes, Yes, YES, -, -, YES, YES, -, -, -, YES, -, YES
+5, 31, Yes, Yes, YES, -, -, YES, -, YES, YES, YES, -, -, -
+5, 31, Yes, Yes, YES, -, -, YES, -, YES, YES, -, YES, -, -
+5, 30, Yes, Yes, YES, -, -, YES, -, YES, YES, -, -, YES, -
+5, 30, Yes, Yes, YES, -, -, YES, -, YES, YES, -, -, -, YES
+5, 29, Yes, Yes, YES, -, -, YES, -, YES, -, YES, YES, -, -
+5, 28, Yes, Yes, YES, -, -, YES, -, YES, -, YES, -, YES, -
+5, 28, Yes, Yes, YES, -, -, YES, -, YES, -, YES, -, -, YES
+5, 28, Yes, Yes, YES, -, -, YES, -, YES, -, -, YES, YES, -
+5, 28, Yes, Yes, YES, -, -, YES, -, YES, -, -, YES, -, YES
+5, 27, Yes, Yes, YES, -, -, YES, -, YES, -, -, -, YES, YES
+5, 29, Yes, Yes, YES, -, -, YES, -, -, YES, YES, YES, -, -
+5, 28, Yes, Yes, YES, -, -, YES, -, -, YES, YES, -, -, YES
+5, 28, Yes, Yes, YES, -, -, YES, -, -, YES, -, YES, -, YES
+5, 26, Yes, Yes, YES, -, -, YES, -, -, -, YES, YES, -, YES
+5, 30, Yes, Yes, YES, -, -, -, YES, YES, YES, YES, -, -, -
+5, 30, Yes, Yes, YES, -, -, -, YES, YES, YES, -, YES, -, -
+5, 29, Yes, Yes, YES, -, -, -, YES, YES, YES, -, -, YES, -
+5, 29, Yes, Yes, YES, -, -, -, YES, YES, YES, -, -, -, YES
+5, 28, Yes, Yes, YES, -, -, -, YES, YES, -, YES, YES, -, -
+5, 27, Yes, Yes, YES, -, -, -, YES, YES, -, YES, -, YES, -
+5, 27, Yes, Yes, YES, -, -, -, YES, YES, -, YES, -, -, YES
+5, 27, Yes, Yes, YES, -, -, -, YES, YES, -, -, YES, YES, -
+5, 27, Yes, Yes, YES, -, -, -, YES, YES, -, -, YES, -, YES
+5, 26, Yes, Yes, YES, -, -, -, YES, YES, -, -, -, YES, YES
+5, 28, Yes, Yes, YES, -, -, -, YES, -, YES, YES, YES, -, -
+5, 27, Yes, Yes, YES, -, -, -, YES, -, YES, YES, -, -, YES
+5, 27, Yes, Yes, YES, -, -, -, YES, -, YES, -, YES, -, YES
+5, 25, Yes, Yes, YES, -, -, -, YES, -, -, YES, YES, -, YES
+5, 26, Yes, Yes, YES, -, -, -, -, YES, YES, YES, YES, -, -
+5, 25, Yes, Yes, YES, -, -, -, -, YES, YES, YES, -, YES, -
+5, 25, Yes, Yes, YES, -, -, -, -, YES, YES, YES, -, -, YES
+5, 25, Yes, Yes, YES, -, -, -, -, YES, YES, -, YES, YES, -
+5, 25, Yes, Yes, YES, -, -, -, -, YES, YES, -, YES, -, YES
+5, 24, Exp., Yes, YES, -, -, -, -, YES, YES, -, -, YES, YES
+5, 23, Exp., Yes, YES, -, -, -, -, YES, -, YES, YES, YES, -
+5, 23, Exp., Yes, YES, -, -, -, -, YES, -, YES, YES, -, YES
+5, 22, Exp., Yes, YES, -, -, -, -, YES, -, YES, -, YES, YES
+5, 22, Exp., Yes, YES, -, -, -, -, YES, -, -, YES, YES, YES
+5, 23, Exp., Yes, YES, -, -, -, -, -, YES, YES, YES, -, YES
+5, 37, Yes, Yes, -, YES, YES, YES, YES, YES, -, -, -, -, -
+5, 37, Yes, Yes, -, YES, YES, YES, YES, -, YES, -, -, -, -
+5, 35, Yes, Yes, -, YES, YES, YES, YES, -, -, YES, -, -, -
+5, 35, Yes, Yes, -, YES, YES, YES, YES, -, -, -, YES, -, -
+5, 34, Yes, Yes, -, YES, YES, YES, YES, -, -, -, -, -, YES
+5, 35, Yes, Yes, -, YES, YES, YES, -, YES, YES, -, -, -, -
+5, 33, Yes, Yes, -, YES, YES, YES, -, YES, -, YES, -, -, -
+5, 33, Yes, Yes, -, YES, YES, YES, -, YES, -, -, YES, -, -
+5, 32, Yes, Yes, -, YES, YES, YES, -, YES, -, -, -, YES, -
+5, 32, Yes, Yes, -, YES, YES, YES, -, YES, -, -, -, -, YES
+5, 33, Yes, Yes, -, YES, YES, YES, -, -, YES, YES, -, -, -
+5, 33, Yes, Yes, -, YES, YES, YES, -, -, YES, -, YES, -, -
+5, 32, Yes, Yes, -, YES, YES, YES, -, -, YES, -, -, -, YES
+5, 31, Yes, Yes, -, YES, YES, YES, -, -, -, YES, YES, -, -
+5, 30, Yes, Yes, -, YES, YES, YES, -, -, -, YES, -, -, YES
+5, 30, Yes, Yes, -, YES, YES, YES, -, -, -, -, YES, -, YES
+5, 34, Yes, Yes, -, YES, YES, -, YES, YES, YES, -, -, -, -
+5, 32, Yes, Yes, -, YES, YES, -, YES, YES, -, YES, -, -, -
+5, 32, Yes, Yes, -, YES, YES, -, YES, YES, -, -, YES, -, -
+5, 31, Yes, Yes, -, YES, YES, -, YES, YES, -, -, -, YES, -
+5, 31, Yes, Yes, -, YES, YES, -, YES, YES, -, -, -, -, YES
+5, 32, Yes, Yes, -, YES, YES, -, YES, -, YES, YES, -, -, -
+5, 32, Yes, Yes, -, YES, YES, -, YES, -, YES, -, YES, -, -
+5, 31, Yes, Yes, -, YES, YES, -, YES, -, YES, -, -, -, YES
+5, 30, Yes, Yes, -, YES, YES, -, YES, -, -, YES, YES, -, -
+5, 29, Yes, Yes, -, YES, YES, -, YES, -, -, YES, -, -, YES
+5, 29, Yes, Yes, -, YES, YES, -, YES, -, -, -, YES, -, YES
+5, 30, Yes, Yes, -, YES, YES, -, -, YES, YES, YES, -, -, -
+5, 30, Yes, Yes, -, YES, YES, -, -, YES, YES, -, YES, -, -
+5, 29, Yes, Yes, -, YES, YES, -, -, YES, YES, -, -, YES, -
+5, 29, Yes, Yes, -, YES, YES, -, -, YES, YES, -, -, -, YES
+5, 28, Yes, Yes, -, YES, YES, -, -, YES, -, YES, YES, -, -
+5, 27, Yes, Yes, -, YES, YES, -, -, YES, -, YES, -, YES, -
+5, 27, Yes, Yes, -, YES, YES, -, -, YES, -, YES, -, -, YES
+5, 27, Yes, Yes, -, YES, YES, -, -, YES, -, -, YES, YES, -
+5, 27, Yes, Yes, -, YES, YES, -, -, YES, -, -, YES, -, YES
+5, 26, Yes, Yes, -, YES, YES, -, -, YES, -, -, -, YES, YES
+5, 28, Yes, Yes, -, YES, YES, -, -, -, YES, YES, YES, -, -
+5, 27, Yes, Yes, -, YES, YES, -, -, -, YES, YES, -, -, YES
+5, 27, Yes, Yes, -, YES, YES, -, -, -, YES, -, YES, -, YES
+5, 25, Yes, Yes, -, YES, YES, -, -, -, -, YES, YES, -, YES
+5, 34, Yes, Yes, -, YES, -, YES, YES, YES, YES, -, -, -, -
+5, 32, Yes, Yes, -, YES, -, YES, YES, YES, -, YES, -, -, -
+5, 32, Yes, Yes, -, YES, -, YES, YES, YES, -, -, YES, -, -
+5, 31, Yes, Yes, -, YES, -, YES, YES, YES, -, -, -, YES, -
+5, 31, Yes, Yes, -, YES, -, YES, YES, YES, -, -, -, -, YES
+5, 32, Yes, Yes, -, YES, -, YES, YES, -, YES, YES, -, -, -
+5, 32, Yes, Yes, -, YES, -, YES, YES, -, YES, -, YES, -, -
+5, 31, Yes, Yes, -, YES, -, YES, YES, -, YES, -, -, -, YES
+5, 30, Yes, Yes, -, YES, -, YES, YES, -, -, YES, YES, -, -
+5, 29, Yes, Yes, -, YES, -, YES, YES, -, -, YES, -, -, YES
+5, 29, Yes, Yes, -, YES, -, YES, YES, -, -, -, YES, -, YES
+5, 30, Yes, Yes, -, YES, -, YES, -, YES, YES, YES, -, -, -
+5, 30, Yes, Yes, -, YES, -, YES, -, YES, YES, -, YES, -, -
+5, 29, Yes, Yes, -, YES, -, YES, -, YES, YES, -, -, YES, -
+5, 29, Yes, Yes, -, YES, -, YES, -, YES, YES, -, -, -, YES
+5, 28, Yes, Yes, -, YES, -, YES, -, YES, -, YES, YES, -, -
+5, 27, Yes, Yes, -, YES, -, YES, -, YES, -, YES, -, YES, -
+5, 27, Yes, Yes, -, YES, -, YES, -, YES, -, YES, -, -, YES
+5, 27, Yes, Yes, -, YES, -, YES, -, YES, -, -, YES, YES, -
+5, 27, Yes, Yes, -, YES, -, YES, -, YES, -, -, YES, -, YES
+5, 26, Yes, Yes, -, YES, -, YES, -, YES, -, -, -, YES, YES
+5, 28, Yes, Yes, -, YES, -, YES, -, -, YES, YES, YES, -, -
+5, 27, Yes, Yes, -, YES, -, YES, -, -, YES, YES, -, -, YES
+5, 27, Yes, Yes, -, YES, -, YES, -, -, YES, -, YES, -, YES
+5, 25, Yes, Yes, -, YES, -, YES, -, -, -, YES, YES, -, YES
+5, 29, Yes, Yes, -, YES, -, -, YES, YES, YES, YES, -, -, -
+5, 29, Yes, Yes, -, YES, -, -, YES, YES, YES, -, YES, -, -
+5, 28, Yes, Yes, -, YES, -, -, YES, YES, YES, -, -, YES, -
+5, 28, Yes, Yes, -, YES, -, -, YES, YES, YES, -, -, -, YES
+5, 27, Yes, Yes, -, YES, -, -, YES, YES, -, YES, YES, -, -
+5, 26, Yes, Yes, -, YES, -, -, YES, YES, -, YES, -, YES, -
+5, 26, Yes, Yes, -, YES, -, -, YES, YES, -, YES, -, -, YES
+5, 26, Yes, Yes, -, YES, -, -, YES, YES, -, -, YES, YES, -
+5, 26, Yes, Yes, -, YES, -, -, YES, YES, -, -, YES, -, YES
+5, 25, Yes, Yes, -, YES, -, -, YES, YES, -, -, -, YES, YES
+5, 27, Yes, Yes, -, YES, -, -, YES, -, YES, YES, YES, -, -
+5, 26, Yes, Yes, -, YES, -, -, YES, -, YES, YES, -, -, YES
+5, 26, Yes, Yes, -, YES, -, -, YES, -, YES, -, YES, -, YES
+5, 24, Exp., Yes, -, YES, -, -, YES, -, -, YES, YES, -, YES
+5, 25, Yes, Yes, -, YES, -, -, -, YES, YES, YES, YES, -, -
+5, 24, Exp., Yes, -, YES, -, -, -, YES, YES, YES, -, YES, -
+5, 24, Exp., Yes, -, YES, -, -, -, YES, YES, YES, -, -, YES
+5, 24, Exp., Yes, -, YES, -, -, -, YES, YES, -, YES, YES, -
+5, 24, Exp., Yes, -, YES, -, -, -, YES, YES, -, YES, -, YES
+5, 23, Exp., Yes, -, YES, -, -, -, YES, YES, -, -, YES, YES
+5, 22, Exp., Yes, -, YES, -, -, -, YES, -, YES, YES, YES, -
+5, 22, Exp., Yes, -, YES, -, -, -, YES, -, YES, YES, -, YES
+5, 21, Exp., Yes, -, YES, -, -, -, YES, -, YES, -, YES, YES
+5, 21, Exp., Yes, -, YES, -, -, -, YES, -, -, YES, YES, YES
+5, 22, Exp., Yes, -, YES, -, -, -, -, YES, YES, YES, -, YES
+5, 33, Yes, Yes, -, -, YES, YES, YES, YES, YES, -, -, -, -
+5, 31, Yes, Yes, -, -, YES, YES, YES, YES, -, YES, -, -, -
+5, 31, Yes, Yes, -, -, YES, YES, YES, YES, -, -, YES, -, -
+5, 30, Yes, Yes, -, -, YES, YES, YES, YES, -, -, -, YES, -
+5, 30, Yes, Yes, -, -, YES, YES, YES, YES, -, -, -, -, YES
+5, 31, Yes, Yes, -, -, YES, YES, YES, -, YES, YES, -, -, -
+5, 31, Yes, Yes, -, -, YES, YES, YES, -, YES, -, YES, -, -
+5, 30, Yes, Yes, -, -, YES, YES, YES, -, YES, -, -, -, YES
+5, 29, Yes, Yes, -, -, YES, YES, YES, -, -, YES, YES, -, -
+5, 28, Yes, Yes, -, -, YES, YES, YES, -, -, YES, -, -, YES
+5, 28, Yes, Yes, -, -, YES, YES, YES, -, -, -, YES, -, YES
+5, 29, Yes, Yes, -, -, YES, YES, -, YES, YES, YES, -, -, -
+5, 29, Yes, Yes, -, -, YES, YES, -, YES, YES, -, YES, -, -
+5, 28, Yes, Yes, -, -, YES, YES, -, YES, YES, -, -, YES, -
+5, 28, Yes, Yes, -, -, YES, YES, -, YES, YES, -, -, -, YES
+5, 27, Yes, Yes, -, -, YES, YES, -, YES, -, YES, YES, -, -
+5, 26, Yes, Yes, -, -, YES, YES, -, YES, -, YES, -, YES, -
+5, 26, Yes, Yes, -, -, YES, YES, -, YES, -, YES, -, -, YES
+5, 26, Yes, Yes, -, -, YES, YES, -, YES, -, -, YES, YES, -
+5, 26, Yes, Yes, -, -, YES, YES, -, YES, -, -, YES, -, YES
+5, 25, Yes, Yes, -, -, YES, YES, -, YES, -, -, -, YES, YES
+5, 27, Yes, Yes, -, -, YES, YES, -, -, YES, YES, YES, -, -
+5, 26, Yes, Yes, -, -, YES, YES, -, -, YES, YES, -, -, YES
+5, 26, Yes, Yes, -, -, YES, YES, -, -, YES, -, YES, -, YES
+5, 24, Exp., Yes, -, -, YES, YES, -, -, -, YES, YES, -, YES
+5, 28, Yes, Yes, -, -, YES, -, YES, YES, YES, YES, -, -, -
+5, 28, Yes, Yes, -, -, YES, -, YES, YES, YES, -, YES, -, -
+5, 27, Yes, Yes, -, -, YES, -, YES, YES, YES, -, -, YES, -
+5, 27, Yes, Yes, -, -, YES, -, YES, YES, YES, -, -, -, YES
+5, 26, Yes, Yes, -, -, YES, -, YES, YES, -, YES, YES, -, -
+5, 25, Yes, Yes, -, -, YES, -, YES, YES, -, YES, -, YES, -
+5, 25, Yes, Yes, -, -, YES, -, YES, YES, -, YES, -, -, YES
+5, 25, Yes, Yes, -, -, YES, -, YES, YES, -, -, YES, YES, -
+5, 25, Yes, Yes, -, -, YES, -, YES, YES, -, -, YES, -, YES
+5, 24, Exp., Yes, -, -, YES, -, YES, YES, -, -, -, YES, YES
+5, 26, Yes, Yes, -, -, YES, -, YES, -, YES, YES, YES, -, -
+5, 25, Yes, Yes, -, -, YES, -, YES, -, YES, YES, -, -, YES
+5, 25, Yes, Yes, -, -, YES, -, YES, -, YES, -, YES, -, YES
+5, 23, Exp., Yes, -, -, YES, -, YES, -, -, YES, YES, -, YES
+5, 24, Exp., Yes, -, -, YES, -, -, YES, YES, YES, YES, -, -
+5, 23, Exp., Yes, -, -, YES, -, -, YES, YES, YES, -, YES, -
+5, 23, Exp., Yes, -, -, YES, -, -, YES, YES, YES, -, -, YES
+5, 23, Exp., Yes, -, -, YES, -, -, YES, YES, -, YES, YES, -
+5, 23, Exp., Yes, -, -, YES, -, -, YES, YES, -, YES, -, YES
+5, 22, Exp., Yes, -, -, YES, -, -, YES, YES, -, -, YES, YES
+5, 21, Exp., Yes, -, -, YES, -, -, YES, -, YES, YES, YES, -
+5, 21, Exp., Yes, -, -, YES, -, -, YES, -, YES, YES, -, YES
+5, 20, Exp., Yes, -, -, YES, -, -, YES, -, YES, -, YES, YES
+5, 20, Exp., Yes, -, -, YES, -, -, YES, -, -, YES, YES, YES
+5, 21, Exp., Yes, -, -, YES, -, -, -, YES, YES, YES, -, YES
+5, 28, Yes, Yes, -, -, -, YES, YES, YES, YES, YES, -, -, -
+5, 28, Yes, Yes, -, -, -, YES, YES, YES, YES, -, YES, -, -
+5, 27, Yes, Yes, -, -, -, YES, YES, YES, YES, -, -, YES, -
+5, 27, Yes, Yes, -, -, -, YES, YES, YES, YES, -, -, -, YES
+5, 26, Yes, Yes, -, -, -, YES, YES, YES, -, YES, YES, -, -
+5, 25, Yes, Yes, -, -, -, YES, YES, YES, -, YES, -, YES, -
+5, 25, Yes, Yes, -, -, -, YES, YES, YES, -, YES, -, -, YES
+5, 25, Yes, Yes, -, -, -, YES, YES, YES, -, -, YES, YES, -
+5, 25, Yes, Yes, -, -, -, YES, YES, YES, -, -, YES, -, YES
+5, 24, Exp., Yes, -, -, -, YES, YES, YES, -, -, -, YES, YES
+5, 26, Yes, Yes, -, -, -, YES, YES, -, YES, YES, YES, -, -
+5, 25, Yes, Yes, -, -, -, YES, YES, -, YES, YES, -, -, YES
+5, 25, Yes, Yes, -, -, -, YES, YES, -, YES, -, YES, -, YES
+5, 23, Exp., Yes, -, -, -, YES, YES, -, -, YES, YES, -, YES
+5, 24, Exp., Yes, -, -, -, YES, -, YES, YES, YES, YES, -, -
+5, 23, Exp., Yes, -, -, -, YES, -, YES, YES, YES, -, YES, -
+5, 23, Exp., Yes, -, -, -, YES, -, YES, YES, YES, -, -, YES
+5, 23, Exp., Yes, -, -, -, YES, -, YES, YES, -, YES, YES, -
+5, 23, Exp., Yes, -, -, -, YES, -, YES, YES, -, YES, -, YES
+5, 22, Exp., Yes, -, -, -, YES, -, YES, YES, -, -, YES, YES
+5, 21, Exp., Yes, -, -, -, YES, -, YES, -, YES, YES, YES, -
+5, 21, Exp., Yes, -, -, -, YES, -, YES, -, YES, YES, -, YES
+5, 20, Exp., Yes, -, -, -, YES, -, YES, -, YES, -, YES, YES
+5, 20, Exp., Yes, -, -, -, YES, -, YES, -, -, YES, YES, YES
+5, 21, Exp., Yes, -, -, -, YES, -, -, YES, YES, YES, -, YES
+5, 23, Exp., Yes, -, -, -, -, YES, YES, YES, YES, YES, -, -
+5, 22, Exp., Yes, -, -, -, -, YES, YES, YES, YES, -, YES, -
+5, 22, Exp., Yes, -, -, -, -, YES, YES, YES, YES, -, -, YES
+5, 22, Exp., Yes, -, -, -, -, YES, YES, YES, -, YES, YES, -
+5, 22, Exp., Yes, -, -, -, -, YES, YES, YES, -, YES, -, YES
+5, 21, Exp., Yes, -, -, -, -, YES, YES, YES, -, -, YES, YES
+5, 20, Exp., Yes, -, -, -, -, YES, YES, -, YES, YES, YES, -
+5, 20, Exp., Yes, -, -, -, -, YES, YES, -, YES, YES, -, YES
+5, 19, Exp., Yes, -, -, -, -, YES, YES, -, YES, -, YES, YES
+5, 19, Exp., Yes, -, -, -, -, YES, YES, -, -, YES, YES, YES
+5, 20, Exp., Yes, -, -, -, -, YES, -, YES, YES, YES, -, YES
+5, 18, Exp., No, -, -, -, -, -, YES, YES, YES, YES, YES, -
+5, 18, Exp., No, -, -, -, -, -, YES, YES, YES, YES, -, YES
+5, 17, Exp., No, -, -, -, -, -, YES, YES, YES, -, YES, YES
+5, 17, Exp., No, -, -, -, -, -, YES, YES, -, YES, YES, YES
+5, 15, No, No, -, -, -, -, -, YES, -, YES, YES, YES, YES
+6, 47, Yes, Yes, YES, YES, YES, YES, YES, YES, -, -, -, -, -
+6, 47, Yes, Yes, YES, YES, YES, YES, YES, -, YES, -, -, -, -
+6, 45, Yes, Yes, YES, YES, YES, YES, YES, -, -, YES, -, -, -
+6, 45, Yes, Yes, YES, YES, YES, YES, YES, -, -, -, YES, -, -
+6, 44, Yes, Yes, YES, YES, YES, YES, YES, -, -, -, -, -, YES
+6, 45, Yes, Yes, YES, YES, YES, YES, -, YES, YES, -, -, -, -
+6, 43, Yes, Yes, YES, YES, YES, YES, -, YES, -, YES, -, -, -
+6, 43, Yes, Yes, YES, YES, YES, YES, -, YES, -, -, YES, -, -
+6, 42, Yes, Yes, YES, YES, YES, YES, -, YES, -, -, -, YES, -
+6, 42, Yes, Yes, YES, YES, YES, YES, -, YES, -, -, -, -, YES
+6, 43, Yes, Yes, YES, YES, YES, YES, -, -, YES, YES, -, -, -
+6, 43, Yes, Yes, YES, YES, YES, YES, -, -, YES, -, YES, -, -
+6, 42, Yes, Yes, YES, YES, YES, YES, -, -, YES, -, -, -, YES
+6, 41, Yes, Yes, YES, YES, YES, YES, -, -, -, YES, YES, -, -
+6, 40, Yes, Yes, YES, YES, YES, YES, -, -, -, YES, -, -, YES
+6, 40, Yes, Yes, YES, YES, YES, YES, -, -, -, -, YES, -, YES
+6, 44, Yes, Yes, YES, YES, YES, -, YES, YES, YES, -, -, -, -
+6, 42, Yes, Yes, YES, YES, YES, -, YES, YES, -, YES, -, -, -
+6, 42, Yes, Yes, YES, YES, YES, -, YES, YES, -, -, YES, -, -
+6, 41, Yes, Yes, YES, YES, YES, -, YES, YES, -, -, -, YES, -
+6, 41, Yes, Yes, YES, YES, YES, -, YES, YES, -, -, -, -, YES
+6, 42, Yes, Yes, YES, YES, YES, -, YES, -, YES, YES, -, -, -
+6, 42, Yes, Yes, YES, YES, YES, -, YES, -, YES, -, YES, -, -
+6, 41, Yes, Yes, YES, YES, YES, -, YES, -, YES, -, -, -, YES
+6, 40, Yes, Yes, YES, YES, YES, -, YES, -, -, YES, YES, -, -
+6, 39, Yes, Yes, YES, YES, YES, -, YES, -, -, YES, -, -, YES
+6, 39, Yes, Yes, YES, YES, YES, -, YES, -, -, -, YES, -, YES
+6, 40, Yes, Yes, YES, YES, YES, -, -, YES, YES, YES, -, -, -
+6, 40, Yes, Yes, YES, YES, YES, -, -, YES, YES, -, YES, -, -
+6, 39, Yes, Yes, YES, YES, YES, -, -, YES, YES, -, -, YES, -
+6, 39, Yes, Yes, YES, YES, YES, -, -, YES, YES, -, -, -, YES
+6, 38, Yes, Yes, YES, YES, YES, -, -, YES, -, YES, YES, -, -
+6, 37, Yes, Yes, YES, YES, YES, -, -, YES, -, YES, -, YES, -
+6, 37, Yes, Yes, YES, YES, YES, -, -, YES, -, YES, -, -, YES
+6, 37, Yes, Yes, YES, YES, YES, -, -, YES, -, -, YES, YES, -
+6, 37, Yes, Yes, YES, YES, YES, -, -, YES, -, -, YES, -, YES
+6, 36, Yes, Yes, YES, YES, YES, -, -, YES, -, -, -, YES, YES
+6, 38, Yes, Yes, YES, YES, YES, -, -, -, YES, YES, YES, -, -
+6, 37, Yes, Yes, YES, YES, YES, -, -, -, YES, YES, -, -, YES
+6, 37, Yes, Yes, YES, YES, YES, -, -, -, YES, -, YES, -, YES
+6, 35, Yes, Yes, YES, YES, YES, -, -, -, -, YES, YES, -, YES
+6, 44, Yes, Yes, YES, YES, -, YES, YES, YES, YES, -, -, -, -
+6, 42, Yes, Yes, YES, YES, -, YES, YES, YES, -, YES, -, -, -
+6, 42, Yes, Yes, YES, YES, -, YES, YES, YES, -, -, YES, -, -
+6, 41, Yes, Yes, YES, YES, -, YES, YES, YES, -, -, -, YES, -
+6, 41, Yes, Yes, YES, YES, -, YES, YES, YES, -, -, -, -, YES
+6, 42, Yes, Yes, YES, YES, -, YES, YES, -, YES, YES, -, -, -
+6, 42, Yes, Yes, YES, YES, -, YES, YES, -, YES, -, YES, -, -
+6, 41, Yes, Yes, YES, YES, -, YES, YES, -, YES, -, -, -, YES
+6, 40, Yes, Yes, YES, YES, -, YES, YES, -, -, YES, YES, -, -
+6, 39, Yes, Yes, YES, YES, -, YES, YES, -, -, YES, -, -, YES
+6, 39, Yes, Yes, YES, YES, -, YES, YES, -, -, -, YES, -, YES
+6, 40, Yes, Yes, YES, YES, -, YES, -, YES, YES, YES, -, -, -
+6, 40, Yes, Yes, YES, YES, -, YES, -, YES, YES, -, YES, -, -
+6, 39, Yes, Yes, YES, YES, -, YES, -, YES, YES, -, -, YES, -
+6, 39, Yes, Yes, YES, YES, -, YES, -, YES, YES, -, -, -, YES
+6, 38, Yes, Yes, YES, YES, -, YES, -, YES, -, YES, YES, -, -
+6, 37, Yes, Yes, YES, YES, -, YES, -, YES, -, YES, -, YES, -
+6, 37, Yes, Yes, YES, YES, -, YES, -, YES, -, YES, -, -, YES
+6, 37, Yes, Yes, YES, YES, -, YES, -, YES, -, -, YES, YES, -
+6, 37, Yes, Yes, YES, YES, -, YES, -, YES, -, -, YES, -, YES
+6, 36, Yes, Yes, YES, YES, -, YES, -, YES, -, -, -, YES, YES
+6, 38, Yes, Yes, YES, YES, -, YES, -, -, YES, YES, YES, -, -
+6, 37, Yes, Yes, YES, YES, -, YES, -, -, YES, YES, -, -, YES
+6, 37, Yes, Yes, YES, YES, -, YES, -, -, YES, -, YES, -, YES
+6, 35, Yes, Yes, YES, YES, -, YES, -, -, -, YES, YES, -, YES
+6, 39, Yes, Yes, YES, YES, -, -, YES, YES, YES, YES, -, -, -
+6, 39, Yes, Yes, YES, YES, -, -, YES, YES, YES, -, YES, -, -
+6, 38, Yes, Yes, YES, YES, -, -, YES, YES, YES, -, -, YES, -
+6, 38, Yes, Yes, YES, YES, -, -, YES, YES, YES, -, -, -, YES
+6, 37, Yes, Yes, YES, YES, -, -, YES, YES, -, YES, YES, -, -
+6, 36, Yes, Yes, YES, YES, -, -, YES, YES, -, YES, -, YES, -
+6, 36, Yes, Yes, YES, YES, -, -, YES, YES, -, YES, -, -, YES
+6, 36, Yes, Yes, YES, YES, -, -, YES, YES, -, -, YES, YES, -
+6, 36, Yes, Yes, YES, YES, -, -, YES, YES, -, -, YES, -, YES
+6, 35, Yes, Yes, YES, YES, -, -, YES, YES, -, -, -, YES, YES
+6, 37, Yes, Yes, YES, YES, -, -, YES, -, YES, YES, YES, -, -
+6, 36, Yes, Yes, YES, YES, -, -, YES, -, YES, YES, -, -, YES
+6, 36, Yes, Yes, YES, YES, -, -, YES, -, YES, -, YES, -, YES
+6, 34, Yes, Yes, YES, YES, -, -, YES, -, -, YES, YES, -, YES
+6, 35, Yes, Yes, YES, YES, -, -, -, YES, YES, YES, YES, -, -
+6, 34, Yes, Yes, YES, YES, -, -, -, YES, YES, YES, -, YES, -
+6, 34, Yes, Yes, YES, YES, -, -, -, YES, YES, YES, -, -, YES
+6, 34, Yes, Yes, YES, YES, -, -, -, YES, YES, -, YES, YES, -
+6, 34, Yes, Yes, YES, YES, -, -, -, YES, YES, -, YES, -, YES
+6, 33, Yes, Yes, YES, YES, -, -, -, YES, YES, -, -, YES, YES
+6, 32, Yes, Yes, YES, YES, -, -, -, YES, -, YES, YES, YES, -
+6, 32, Yes, Yes, YES, YES, -, -, -, YES, -, YES, YES, -, YES
+6, 31, Yes, Yes, YES, YES, -, -, -, YES, -, YES, -, YES, YES
+6, 31, Yes, Yes, YES, YES, -, -, -, YES, -, -, YES, YES, YES
+6, 32, Yes, Yes, YES, YES, -, -, -, -, YES, YES, YES, -, YES
+6, 43, Yes, Yes, YES, -, YES, YES, YES, YES, YES, -, -, -, -
+6, 41, Yes, Yes, YES, -, YES, YES, YES, YES, -, YES, -, -, -
+6, 41, Yes, Yes, YES, -, YES, YES, YES, YES, -, -, YES, -, -
+6, 40, Yes, Yes, YES, -, YES, YES, YES, YES, -, -, -, YES, -
+6, 40, Yes, Yes, YES, -, YES, YES, YES, YES, -, -, -, -, YES
+6, 41, Yes, Yes, YES, -, YES, YES, YES, -, YES, YES, -, -, -
+6, 41, Yes, Yes, YES, -, YES, YES, YES, -, YES, -, YES, -, -
+6, 40, Yes, Yes, YES, -, YES, YES, YES, -, YES, -, -, -, YES
+6, 39, Yes, Yes, YES, -, YES, YES, YES, -, -, YES, YES, -, -
+6, 38, Yes, Yes, YES, -, YES, YES, YES, -, -, YES, -, -, YES
+6, 38, Yes, Yes, YES, -, YES, YES, YES, -, -, -, YES, -, YES
+6, 39, Yes, Yes, YES, -, YES, YES, -, YES, YES, YES, -, -, -
+6, 39, Yes, Yes, YES, -, YES, YES, -, YES, YES, -, YES, -, -
+6, 38, Yes, Yes, YES, -, YES, YES, -, YES, YES, -, -, YES, -
+6, 38, Yes, Yes, YES, -, YES, YES, -, YES, YES, -, -, -, YES
+6, 37, Yes, Yes, YES, -, YES, YES, -, YES, -, YES, YES, -, -
+6, 36, Yes, Yes, YES, -, YES, YES, -, YES, -, YES, -, YES, -
+6, 36, Yes, Yes, YES, -, YES, YES, -, YES, -, YES, -, -, YES
+6, 36, Yes, Yes, YES, -, YES, YES, -, YES, -, -, YES, YES, -
+6, 36, Yes, Yes, YES, -, YES, YES, -, YES, -, -, YES, -, YES
+6, 35, Yes, Yes, YES, -, YES, YES, -, YES, -, -, -, YES, YES
+6, 37, Yes, Yes, YES, -, YES, YES, -, -, YES, YES, YES, -, -
+6, 36, Yes, Yes, YES, -, YES, YES, -, -, YES, YES, -, -, YES
+6, 36, Yes, Yes, YES, -, YES, YES, -, -, YES, -, YES, -, YES
+6, 34, Yes, Yes, YES, -, YES, YES, -, -, -, YES, YES, -, YES
+6, 38, Yes, Yes, YES, -, YES, -, YES, YES, YES, YES, -, -, -
+6, 38, Yes, Yes, YES, -, YES, -, YES, YES, YES, -, YES, -, -
+6, 37, Yes, Yes, YES, -, YES, -, YES, YES, YES, -, -, YES, -
+6, 37, Yes, Yes, YES, -, YES, -, YES, YES, YES, -, -, -, YES
+6, 36, Yes, Yes, YES, -, YES, -, YES, YES, -, YES, YES, -, -
+6, 35, Yes, Yes, YES, -, YES, -, YES, YES, -, YES, -, YES, -
+6, 35, Yes, Yes, YES, -, YES, -, YES, YES, -, YES, -, -, YES
+6, 35, Yes, Yes, YES, -, YES, -, YES, YES, -, -, YES, YES, -
+6, 35, Yes, Yes, YES, -, YES, -, YES, YES, -, -, YES, -, YES
+6, 34, Yes, Yes, YES, -, YES, -, YES, YES, -, -, -, YES, YES
+6, 36, Yes, Yes, YES, -, YES, -, YES, -, YES, YES, YES, -, -
+6, 35, Yes, Yes, YES, -, YES, -, YES, -, YES, YES, -, -, YES
+6, 35, Yes, Yes, YES, -, YES, -, YES, -, YES, -, YES, -, YES
+6, 33, Yes, Yes, YES, -, YES, -, YES, -, -, YES, YES, -, YES
+6, 34, Yes, Yes, YES, -, YES, -, -, YES, YES, YES, YES, -, -
+6, 33, Yes, Yes, YES, -, YES, -, -, YES, YES, YES, -, YES, -
+6, 33, Yes, Yes, YES, -, YES, -, -, YES, YES, YES, -, -, YES
+6, 33, Yes, Yes, YES, -, YES, -, -, YES, YES, -, YES, YES, -
+6, 33, Yes, Yes, YES, -, YES, -, -, YES, YES, -, YES, -, YES
+6, 32, Yes, Yes, YES, -, YES, -, -, YES, YES, -, -, YES, YES
+6, 31, Yes, Yes, YES, -, YES, -, -, YES, -, YES, YES, YES, -
+6, 31, Yes, Yes, YES, -, YES, -, -, YES, -, YES, YES, -, YES
+6, 30, Yes, Yes, YES, -, YES, -, -, YES, -, YES, -, YES, YES
+6, 30, Yes, Yes, YES, -, YES, -, -, YES, -, -, YES, YES, YES
+6, 31, Yes, Yes, YES, -, YES, -, -, -, YES, YES, YES, -, YES
+6, 38, Yes, Yes, YES, -, -, YES, YES, YES, YES, YES, -, -, -
+6, 38, Yes, Yes, YES, -, -, YES, YES, YES, YES, -, YES, -, -
+6, 37, Yes, Yes, YES, -, -, YES, YES, YES, YES, -, -, YES, -
+6, 37, Yes, Yes, YES, -, -, YES, YES, YES, YES, -, -, -, YES
+6, 36, Yes, Yes, YES, -, -, YES, YES, YES, -, YES, YES, -, -
+6, 35, Yes, Yes, YES, -, -, YES, YES, YES, -, YES, -, YES, -
+6, 35, Yes, Yes, YES, -, -, YES, YES, YES, -, YES, -, -, YES
+6, 35, Yes, Yes, YES, -, -, YES, YES, YES, -, -, YES, YES, -
+6, 35, Yes, Yes, YES, -, -, YES, YES, YES, -, -, YES, -, YES
+6, 34, Yes, Yes, YES, -, -, YES, YES, YES, -, -, -, YES, YES
+6, 36, Yes, Yes, YES, -, -, YES, YES, -, YES, YES, YES, -, -
+6, 35, Yes, Yes, YES, -, -, YES, YES, -, YES, YES, -, -, YES
+6, 35, Yes, Yes, YES, -, -, YES, YES, -, YES, -, YES, -, YES
+6, 33, Yes, Yes, YES, -, -, YES, YES, -, -, YES, YES, -, YES
+6, 34, Yes, Yes, YES, -, -, YES, -, YES, YES, YES, YES, -, -
+6, 33, Yes, Yes, YES, -, -, YES, -, YES, YES, YES, -, YES, -
+6, 33, Yes, Yes, YES, -, -, YES, -, YES, YES, YES, -, -, YES
+6, 33, Yes, Yes, YES, -, -, YES, -, YES, YES, -, YES, YES, -
+6, 33, Yes, Yes, YES, -, -, YES, -, YES, YES, -, YES, -, YES
+6, 32, Yes, Yes, YES, -, -, YES, -, YES, YES, -, -, YES, YES
+6, 31, Yes, Yes, YES, -, -, YES, -, YES, -, YES, YES, YES, -
+6, 31, Yes, Yes, YES, -, -, YES, -, YES, -, YES, YES, -, YES
+6, 30, Yes, Yes, YES, -, -, YES, -, YES, -, YES, -, YES, YES
+6, 30, Yes, Yes, YES, -, -, YES, -, YES, -, -, YES, YES, YES
+6, 31, Yes, Yes, YES, -, -, YES, -, -, YES, YES, YES, -, YES
+6, 33, Yes, Yes, YES, -, -, -, YES, YES, YES, YES, YES, -, -
+6, 32, Yes, Yes, YES, -, -, -, YES, YES, YES, YES, -, YES, -
+6, 32, Yes, Yes, YES, -, -, -, YES, YES, YES, YES, -, -, YES
+6, 32, Yes, Yes, YES, -, -, -, YES, YES, YES, -, YES, YES, -
+6, 32, Yes, Yes, YES, -, -, -, YES, YES, YES, -, YES, -, YES
+6, 31, Yes, Yes, YES, -, -, -, YES, YES, YES, -, -, YES, YES
+6, 30, Yes, Yes, YES, -, -, -, YES, YES, -, YES, YES, YES, -
+6, 30, Yes, Yes, YES, -, -, -, YES, YES, -, YES, YES, -, YES
+6, 29, Yes, Yes, YES, -, -, -, YES, YES, -, YES, -, YES, YES
+6, 29, Yes, Yes, YES, -, -, -, YES, YES, -, -, YES, YES, YES
+6, 30, Yes, Yes, YES, -, -, -, YES, -, YES, YES, YES, -, YES
+6, 28, Yes, Yes, YES, -, -, -, -, YES, YES, YES, YES, YES, -
+6, 28, Yes, Yes, YES, -, -, -, -, YES, YES, YES, YES, -, YES
+6, 27, Exp., Yes, YES, -, -, -, -, YES, YES, YES, -, YES, YES
+6, 27, Exp., Yes, YES, -, -, -, -, YES, YES, -, YES, YES, YES
+6, 25, Exp., Yes, YES, -, -, -, -, YES, -, YES, YES, YES, YES
+6, 42, Yes, Yes, -, YES, YES, YES, YES, YES, YES, -, -, -, -
+6, 40, Yes, Yes, -, YES, YES, YES, YES, YES, -, YES, -, -, -
+6, 40, Yes, Yes, -, YES, YES, YES, YES, YES, -, -, YES, -, -
+6, 39, Yes, Yes, -, YES, YES, YES, YES, YES, -, -, -, YES, -
+6, 39, Yes, Yes, -, YES, YES, YES, YES, YES, -, -, -, -, YES
+6, 40, Yes, Yes, -, YES, YES, YES, YES, -, YES, YES, -, -, -
+6, 40, Yes, Yes, -, YES, YES, YES, YES, -, YES, -, YES, -, -
+6, 39, Yes, Yes, -, YES, YES, YES, YES, -, YES, -, -, -, YES
+6, 38, Yes, Yes, -, YES, YES, YES, YES, -, -, YES, YES, -, -
+6, 37, Yes, Yes, -, YES, YES, YES, YES, -, -, YES, -, -, YES
+6, 37, Yes, Yes, -, YES, YES, YES, YES, -, -, -, YES, -, YES
+6, 38, Yes, Yes, -, YES, YES, YES, -, YES, YES, YES, -, -, -
+6, 38, Yes, Yes, -, YES, YES, YES, -, YES, YES, -, YES, -, -
+6, 37, Yes, Yes, -, YES, YES, YES, -, YES, YES, -, -, YES, -
+6, 37, Yes, Yes, -, YES, YES, YES, -, YES, YES, -, -, -, YES
+6, 36, Yes, Yes, -, YES, YES, YES, -, YES, -, YES, YES, -, -
+6, 35, Yes, Yes, -, YES, YES, YES, -, YES, -, YES, -, YES, -
+6, 35, Yes, Yes, -, YES, YES, YES, -, YES, -, YES, -, -, YES
+6, 35, Yes, Yes, -, YES, YES, YES, -, YES, -, -, YES, YES, -
+6, 35, Yes, Yes, -, YES, YES, YES, -, YES, -, -, YES, -, YES
+6, 34, Yes, Yes, -, YES, YES, YES, -, YES, -, -, -, YES, YES
+6, 36, Yes, Yes, -, YES, YES, YES, -, -, YES, YES, YES, -, -
+6, 35, Yes, Yes, -, YES, YES, YES, -, -, YES, YES, -, -, YES
+6, 35, Yes, Yes, -, YES, YES, YES, -, -, YES, -, YES, -, YES
+6, 33, Yes, Yes, -, YES, YES, YES, -, -, -, YES, YES, -, YES
+6, 37, Yes, Yes, -, YES, YES, -, YES, YES, YES, YES, -, -, -
+6, 37, Yes, Yes, -, YES, YES, -, YES, YES, YES, -, YES, -, -
+6, 36, Yes, Yes, -, YES, YES, -, YES, YES, YES, -, -, YES, -
+6, 36, Yes, Yes, -, YES, YES, -, YES, YES, YES, -, -, -, YES
+6, 35, Yes, Yes, -, YES, YES, -, YES, YES, -, YES, YES, -, -
+6, 34, Yes, Yes, -, YES, YES, -, YES, YES, -, YES, -, YES, -
+6, 34, Yes, Yes, -, YES, YES, -, YES, YES, -, YES, -, -, YES
+6, 34, Yes, Yes, -, YES, YES, -, YES, YES, -, -, YES, YES, -
+6, 34, Yes, Yes, -, YES, YES, -, YES, YES, -, -, YES, -, YES
+6, 33, Yes, Yes, -, YES, YES, -, YES, YES, -, -, -, YES, YES
+6, 35, Yes, Yes, -, YES, YES, -, YES, -, YES, YES, YES, -, -
+6, 34, Yes, Yes, -, YES, YES, -, YES, -, YES, YES, -, -, YES
+6, 34, Yes, Yes, -, YES, YES, -, YES, -, YES, -, YES, -, YES
+6, 32, Yes, Yes, -, YES, YES, -, YES, -, -, YES, YES, -, YES
+6, 33, Yes, Yes, -, YES, YES, -, -, YES, YES, YES, YES, -, -
+6, 32, Yes, Yes, -, YES, YES, -, -, YES, YES, YES, -, YES, -
+6, 32, Yes, Yes, -, YES, YES, -, -, YES, YES, YES, -, -, YES
+6, 32, Yes, Yes, -, YES, YES, -, -, YES, YES, -, YES, YES, -
+6, 32, Yes, Yes, -, YES, YES, -, -, YES, YES, -, YES, -, YES
+6, 31, Yes, Yes, -, YES, YES, -, -, YES, YES, -, -, YES, YES
+6, 30, Yes, Yes, -, YES, YES, -, -, YES, -, YES, YES, YES, -
+6, 30, Yes, Yes, -, YES, YES, -, -, YES, -, YES, YES, -, YES
+6, 29, Yes, Yes, -, YES, YES, -, -, YES, -, YES, -, YES, YES
+6, 29, Yes, Yes, -, YES, YES, -, -, YES, -, -, YES, YES, YES
+6, 30, Yes, Yes, -, YES, YES, -, -, -, YES, YES, YES, -, YES
+6, 37, Yes, Yes, -, YES, -, YES, YES, YES, YES, YES, -, -, -
+6, 37, Yes, Yes, -, YES, -, YES, YES, YES, YES, -, YES, -, -
+6, 36, Yes, Yes, -, YES, -, YES, YES, YES, YES, -, -, YES, -
+6, 36, Yes, Yes, -, YES, -, YES, YES, YES, YES, -, -, -, YES
+6, 35, Yes, Yes, -, YES, -, YES, YES, YES, -, YES, YES, -, -
+6, 34, Yes, Yes, -, YES, -, YES, YES, YES, -, YES, -, YES, -
+6, 34, Yes, Yes, -, YES, -, YES, YES, YES, -, YES, -, -, YES
+6, 34, Yes, Yes, -, YES, -, YES, YES, YES, -, -, YES, YES, -
+6, 34, Yes, Yes, -, YES, -, YES, YES, YES, -, -, YES, -, YES
+6, 33, Yes, Yes, -, YES, -, YES, YES, YES, -, -, -, YES, YES
+6, 35, Yes, Yes, -, YES, -, YES, YES, -, YES, YES, YES, -, -
+6, 34, Yes, Yes, -, YES, -, YES, YES, -, YES, YES, -, -, YES
+6, 34, Yes, Yes, -, YES, -, YES, YES, -, YES, -, YES, -, YES
+6, 32, Yes, Yes, -, YES, -, YES, YES, -, -, YES, YES, -, YES
+6, 33, Yes, Yes, -, YES, -, YES, -, YES, YES, YES, YES, -, -
+6, 32, Yes, Yes, -, YES, -, YES, -, YES, YES, YES, -, YES, -
+6, 32, Yes, Yes, -, YES, -, YES, -, YES, YES, YES, -, -, YES
+6, 32, Yes, Yes, -, YES, -, YES, -, YES, YES, -, YES, YES, -
+6, 32, Yes, Yes, -, YES, -, YES, -, YES, YES, -, YES, -, YES
+6, 31, Yes, Yes, -, YES, -, YES, -, YES, YES, -, -, YES, YES
+6, 30, Yes, Yes, -, YES, -, YES, -, YES, -, YES, YES, YES, -
+6, 30, Yes, Yes, -, YES, -, YES, -, YES, -, YES, YES, -, YES
+6, 29, Yes, Yes, -, YES, -, YES, -, YES, -, YES, -, YES, YES
+6, 29, Yes, Yes, -, YES, -, YES, -, YES, -, -, YES, YES, YES
+6, 30, Yes, Yes, -, YES, -, YES, -, -, YES, YES, YES, -, YES
+6, 32, Yes, Yes, -, YES, -, -, YES, YES, YES, YES, YES, -, -
+6, 31, Yes, Yes, -, YES, -, -, YES, YES, YES, YES, -, YES, -
+6, 31, Yes, Yes, -, YES, -, -, YES, YES, YES, YES, -, -, YES
+6, 31, Yes, Yes, -, YES, -, -, YES, YES, YES, -, YES, YES, -
+6, 31, Yes, Yes, -, YES, -, -, YES, YES, YES, -, YES, -, YES
+6, 30, Yes, Yes, -, YES, -, -, YES, YES, YES, -, -, YES, YES
+6, 29, Yes, Yes, -, YES, -, -, YES, YES, -, YES, YES, YES, -
+6, 29, Yes, Yes, -, YES, -, -, YES, YES, -, YES, YES, -, YES
+6, 28, Yes, Yes, -, YES, -, -, YES, YES, -, YES, -, YES, YES
+6, 28, Yes, Yes, -, YES, -, -, YES, YES, -, -, YES, YES, YES
+6, 29, Yes, Yes, -, YES, -, -, YES, -, YES, YES, YES, -, YES
+6, 27, Exp., Yes, -, YES, -, -, -, YES, YES, YES, YES, YES, -
+6, 27, Exp., Yes, -, YES, -, -, -, YES, YES, YES, YES, -, YES
+6, 26, Exp., Yes, -, YES, -, -, -, YES, YES, YES, -, YES, YES
+6, 26, Exp., Yes, -, YES, -, -, -, YES, YES, -, YES, YES, YES
+6, 24, Exp., Yes, -, YES, -, -, -, YES, -, YES, YES, YES, YES
+6, 36, Yes, Yes, -, -, YES, YES, YES, YES, YES, YES, -, -, -
+6, 36, Yes, Yes, -, -, YES, YES, YES, YES, YES, -, YES, -, -
+6, 35, Yes, Yes, -, -, YES, YES, YES, YES, YES, -, -, YES, -
+6, 35, Yes, Yes, -, -, YES, YES, YES, YES, YES, -, -, -, YES
+6, 34, Yes, Yes, -, -, YES, YES, YES, YES, -, YES, YES, -, -
+6, 33, Yes, Yes, -, -, YES, YES, YES, YES, -, YES, -, YES, -
+6, 33, Yes, Yes, -, -, YES, YES, YES, YES, -, YES, -, -, YES
+6, 33, Yes, Yes, -, -, YES, YES, YES, YES, -, -, YES, YES, -
+6, 33, Yes, Yes, -, -, YES, YES, YES, YES, -, -, YES, -, YES
+6, 32, Yes, Yes, -, -, YES, YES, YES, YES, -, -, -, YES, YES
+6, 34, Yes, Yes, -, -, YES, YES, YES, -, YES, YES, YES, -, -
+6, 33, Yes, Yes, -, -, YES, YES, YES, -, YES, YES, -, -, YES
+6, 33, Yes, Yes, -, -, YES, YES, YES, -, YES, -, YES, -, YES
+6, 31, Yes, Yes, -, -, YES, YES, YES, -, -, YES, YES, -, YES
+6, 32, Yes, Yes, -, -, YES, YES, -, YES, YES, YES, YES, -, -
+6, 31, Yes, Yes, -, -, YES, YES, -, YES, YES, YES, -, YES, -
+6, 31, Yes, Yes, -, -, YES, YES, -, YES, YES, YES, -, -, YES
+6, 31, Yes, Yes, -, -, YES, YES, -, YES, YES, -, YES, YES, -
+6, 31, Yes, Yes, -, -, YES, YES, -, YES, YES, -, YES, -, YES
+6, 30, Yes, Yes, -, -, YES, YES, -, YES, YES, -, -, YES, YES
+6, 29, Yes, Yes, -, -, YES, YES, -, YES, -, YES, YES, YES, -
+6, 29, Yes, Yes, -, -, YES, YES, -, YES, -, YES, YES, -, YES
+6, 28, Yes, Yes, -, -, YES, YES, -, YES, -, YES, -, YES, YES
+6, 28, Yes, Yes, -, -, YES, YES, -, YES, -, -, YES, YES, YES
+6, 29, Yes, Yes, -, -, YES, YES, -, -, YES, YES, YES, -, YES
+6, 31, Yes, Yes, -, -, YES, -, YES, YES, YES, YES, YES, -, -
+6, 30, Yes, Yes, -, -, YES, -, YES, YES, YES, YES, -, YES, -
+6, 30, Yes, Yes, -, -, YES, -, YES, YES, YES, YES, -, -, YES
+6, 30, Yes, Yes, -, -, YES, -, YES, YES, YES, -, YES, YES, -
+6, 30, Yes, Yes, -, -, YES, -, YES, YES, YES, -, YES, -, YES
+6, 29, Yes, Yes, -, -, YES, -, YES, YES, YES, -, -, YES, YES
+6, 28, Yes, Yes, -, -, YES, -, YES, YES, -, YES, YES, YES, -
+6, 28, Yes, Yes, -, -, YES, -, YES, YES, -, YES, YES, -, YES
+6, 27, Exp., Yes, -, -, YES, -, YES, YES, -, YES, -, YES, YES
+6, 27, Exp., Yes, -, -, YES, -, YES, YES, -, -, YES, YES, YES
+6, 28, Yes, Yes, -, -, YES, -, YES, -, YES, YES, YES, -, YES
+6, 26, Exp., Yes, -, -, YES, -, -, YES, YES, YES, YES, YES, -
+6, 26, Exp., Yes, -, -, YES, -, -, YES, YES, YES, YES, -, YES
+6, 25, Exp., Yes, -, -, YES, -, -, YES, YES, YES, -, YES, YES
+6, 25, Exp., Yes, -, -, YES, -, -, YES, YES, -, YES, YES, YES
+6, 23, Exp., Yes, -, -, YES, -, -, YES, -, YES, YES, YES, YES
+6, 31, Yes, Yes, -, -, -, YES, YES, YES, YES, YES, YES, -, -
+6, 30, Yes, Yes, -, -, -, YES, YES, YES, YES, YES, -, YES, -
+6, 30, Yes, Yes, -, -, -, YES, YES, YES, YES, YES, -, -, YES
+6, 30, Yes, Yes, -, -, -, YES, YES, YES, YES, -, YES, YES, -
+6, 30, Yes, Yes, -, -, -, YES, YES, YES, YES, -, YES, -, YES
+6, 29, Yes, Yes, -, -, -, YES, YES, YES, YES, -, -, YES, YES
+6, 28, Yes, Yes, -, -, -, YES, YES, YES, -, YES, YES, YES, -
+6, 28, Yes, Yes, -, -, -, YES, YES, YES, -, YES, YES, -, YES
+6, 27, Exp., Yes, -, -, -, YES, YES, YES, -, YES, -, YES, YES
+6, 27, Exp., Yes, -, -, -, YES, YES, YES, -, -, YES, YES, YES
+6, 28, Yes, Yes, -, -, -, YES, YES, -, YES, YES, YES, -, YES
+6, 26, Exp., Yes, -, -, -, YES, -, YES, YES, YES, YES, YES, -
+6, 26, Exp., Yes, -, -, -, YES, -, YES, YES, YES, YES, -, YES
+6, 25, Exp., Yes, -, -, -, YES, -, YES, YES, YES, -, YES, YES
+6, 25, Exp., Yes, -, -, -, YES, -, YES, YES, -, YES, YES, YES
+6, 23, Exp., Yes, -, -, -, YES, -, YES, -, YES, YES, YES, YES
+6, 25, Exp., Yes, -, -, -, -, YES, YES, YES, YES, YES, YES, -
+6, 25, Exp., Yes, -, -, -, -, YES, YES, YES, YES, YES, -, YES
+6, 24, Exp., Yes, -, -, -, -, YES, YES, YES, YES, -, YES, YES
+6, 24, Exp., Yes, -, -, -, -, YES, YES, YES, -, YES, YES, YES
+6, 22, Exp., Yes, -, -, -, -, YES, YES, -, YES, YES, YES, YES
+6, 20, Exp., No, -, -, -, -, -, YES, YES, YES, YES, YES, YES
