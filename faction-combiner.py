@@ -8,8 +8,11 @@ reach_values = {
     "Keepers in Iron": 8,
     "Underground Duchy": 8,
     "Eyrie Dynasties": 7,
+    "Lilypad Diaspora": 7,
     "Vagabond (first)": 5,
     "Riverfolk Company": 5,
+    "Knaves of the Deepwood": 4,
+    "Twilight Council": 4,
     "Woodland Alliance": 3,
     "Corvid Conspiracy": 3,
     "Vagabond (second)": 2,
@@ -24,7 +27,7 @@ reach_minimums = {
     6: 28
 }
 
-red_adset_factions = ["Marquise de Cat", "Lord of the Hundreds", "Keepers in Iron", "Underground Duchy", "Eyrie Dynasties"]
+red_adset_factions = ["Marquise de Cat", "Lord of the Hundreds", "Keepers in Iron", "Underground Duchy", "Eyrie Dynasties", "Lilypad Diaspora"]
 
 min_player_count = 2
 max_player_count = 6
@@ -39,6 +42,8 @@ for num_players in range(min_player_count, max_player_count+1):
         # SKIP INVALID COMBINATIONS.
         if "Vagabond (second)" in combination and "Vagabond (first)" not in combination:
             continue
+        if "Vagabond (first)" in combination and "Knaves of the Deepwood" in combination:
+            continue
 
         total_reach = sum(map(lambda faction: reach_values[faction], combination))
 
@@ -48,14 +53,18 @@ for num_players in range(min_player_count, max_player_count+1):
         if total_reach >= reach_minimums[num_players]:
             file_output += "Yes, "
         elif total_reach >= 17:
-            file_output += "Exp., "
+            file_output += "Adv., "
         elif total_reach < 17: 
             file_output += "No, "
 
         # IS THIS A VALID COMBINATION USING ADVANCED SETUP (ADSET)?
         num_red_adset_factions = len(set(combination).intersection(red_adset_factions))
-        if (num_players == 2 and num_red_adset_factions == 2) or (num_players >= 3 and num_red_adset_factions >= 1):
+        if ((num_players == 2 and num_red_adset_factions == 2) or (num_players >= 3 and num_red_adset_factions >= 1)) and "Vagabond (second)" not in combination:
             file_output += "Yes, "
+        elif num_players == 2 and num_red_adset_factions == 1:
+            file_output += "Adv. w/H., "
+        elif "Vagabond (second)" in combination:
+            file_output += "Adv., "
         else:
             file_output += "No, "
 
